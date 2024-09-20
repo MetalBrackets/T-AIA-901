@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "T-AIA-900"
+version = "0.1.0"
+description = ""
+authors = ["Jibé"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+pylint = "^3.2.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
