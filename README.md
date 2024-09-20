@@ -11,9 +11,9 @@
 
 ## Fonctionnalités
 
-- Un composant vocal
-- Un composant NLP
-- Un composant pathfinder
+- Un module speech to text
+- Un module NLP
+- Un module pathfinder
 - Une UI sympa à utiliser
 
 ### Diagram de flux
@@ -28,7 +28,7 @@ flowchart LR
 
 ### Specifications
 
-**1. Le composant vocal**
+**1. Le module speech to text**
 
 - Enregistre et lit un signal vocal
 - Retourne la phrase en JSON ou _stdout_
@@ -38,7 +38,7 @@ flowchart LR
 return : sentenceID, sentence
 ```
 
-**2. Le composant NLP**
+**2. Le module NLP**
 
 - Il reçois en entrée la phrase
 - Il identifie le départ et la destination
@@ -88,8 +88,8 @@ Algo - Chemin optimal dans un graph
 ```bash
 poetry install
 poetry shell
-cd archi_rag
-poetry run main.py
+cd aia-script/2_module_NLP/
+poetry run script-NLP.py
 ```
 
 ## Lint
