@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/MetalBrackets/T-AIA-901/compare/v1.0.0...v1.1.0) (2024-09-27)
+
+
+### Features
+
+* **pathfinder:** script fisrt solution + add documentation adr ([b693f80](https://github.com/MetalBrackets/T-AIA-901/commit/b693f806b0cdd46da0591906a70b6da8e449cc36))
+
 ## 1.0.0 (2024-09-20)
 
 
