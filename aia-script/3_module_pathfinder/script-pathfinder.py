@@ -1,1 +1,0 @@
-# Script défini dans l'ADR : Technical Assessment -> speech to text
