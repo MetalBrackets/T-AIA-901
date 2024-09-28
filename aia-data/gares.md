@@ -1,123 +1,180 @@
 nom
 Abancourt
+Abancourt
+Abancourt
 Abbaretz
 Abbeville
-Ablon-sur-Seine
-Achères Grand Cormier
-Achères Ville
-Achiet-le-Grand
-Aéroport Charles de Gaulle 1
-Aéroport Charles de Gaulle 2 TGV
+Ablon
+Achères-Grand-Cormier
+Achères-Ville
+Acheux-Franleu
+Achiet
+Aéroport-Charles-de-Gaulle 2-TGV
 Agay
 Agde
 Agen
 Agonac
-Aguilcourt - Variscourt
-Aigrefeuille le Thou
+Aguilcourt-Variscourt
+Aiffres
+Aiffres
+Aigrefeuille-Le Thou
 Aiguebelette-le-Lac
 Aiguebelle
 Aigueperse
 Aigues-Mortes
+Aigues-Vives
 Aiguillon
+Aillevillers
+Aillevillers
 Aillevillers
 Ailly-sur-Noye
 Ailly-sur-Somme
 Aimargues
-Aime - La Plagne
+Aime-La Plagne
+Aire-sur-l'Adour
+Aire-sur-la-Lys
+Airvault-Gare
 Aiserey
 Aix-en-Provence
-Aix-en-Provence TGV
-Aix-les-Bains le Revard
+Aix-en-Provence-Marchandises
+Aix-en-Provence-Marchandises
+Aix-en-Provence-TGV
+Aix-les-Bains-Le Revard
+Aix-les-Bains-Le Revard
 Aixe-sur-Vienne
 Alaï
 Albens
 Albert
 Albertville
 Albi
-Albi Madeleine
+Albi-Madeleine
 Albias
-Albigny - Neuville
+Albigny-Neuville
+Alençon
+Alençon
 Alençon
 Alès
+Alès
+Alet-les-Bains
+Alixan-Châteauneuf-d'Isère
+Alland'huy
 Allassac
-Allée de la Tour Rendez-Vous
+Allée-de-la-Tour-Rendez-Vous
 Allenc
 Alleyras
+Allonnes-Boisville
+Alouette-France
 Altkirch
-Amagne - Lucquy
+Altkirch
+Amagne-Lucquy
 Ambazac
-Ambérieu-en-Bugey
+Ambérieu
+Ambérieu
+Ambérieu
 Amboise
-Ambronay - Priay
+Ambronay-Priay
 Amiens
 Amifontaine
-Amilly Ouerray
+Amilly-Ouerray
 Amplepuis
 Ancenis
+Ancerville-Guë
 Anchamps
-Anché - Voulon
+Anché-Voulon
 Ancy-sur-Moselle
-Andelot-en-Montagne
+Andelot
+Andelot
 Andrésy
-Andrézieux-Bouthéon
-Angers Maître École
-Angers Saint-Laud
+Andrézieux
+Angers-Maître-École
+Angers-St-Laud
+Angers-St-Serge
 Angerville
+Anglefort
 Angoulême
-Angoulins sur Mer
-Anizy - Pinon
+Angoulins-sur-Mer
+Aniche
+Anizy-Pinon
 Annappes
 Annecy
 Annemasse
 Anor
-Anse Halte
-Anthéor Cap Roux
+Anor
+Anould
+Anse
+Anstaing
+Anthéor-Cap-Roux
 Antibes
 Anvin
+Anzeling
+Anzeling
 Apach
 Appilly
 Arbanats
 Arbois
 Arc-et-Senans
+Arc-et-Senans
 Arcachon
 Arches
-Arcy-sur-Cure
-Arenc Euroméditerranée
+Arches
+Archignat
+Arcis-sur-Aube
+Arenc-Euroméditerranée
 Arengosse
 Argelès-sur-Mer
 Argentan
+Argentan
 Argenteuil
+Argenteuil
+Argenteuil GC
 Argentière
 Argenton-sur-Creuse
 Arles
 Arleux
 Armentières
+Armentières
 Arnage
 Arnèke
 Arpajon
+Arques (Pas-de-Calais)
+Arques (Pas-de-Calais)
+Arques-la-Bataille
+Arras
 Arras
 Arrou
 Ars-sur-Moselle
 Artenay
 Artix
+Artonges
 Arvant
+Arzembouy
 Ascq
+Asnières-lès-Bourges
 Asnières-sur-Seine
+Asnières-sur-Seine
+Asnières-sur-Seine
+Aspres-sur-Buëch
 Aspres-sur-Buëch
 Assat
 Assier
+Athies-sous-Laon
 Athis-Mons
+Athis-Mons
+Attichy
+Attigny (Ardennes)
+Attin-Garage
 Aubagne
-Aubazines - Saint-Hilaire
-Aubergenville Élisabethville
+Aubazine-St-Hilaire
+Aubergenville-Élisabethville
 Aubiat
-Aubie - Saint-Antoine
+Aubie-St-Antoine
 Aubiet
 Aubigné-Racan
 Aubigny-au-Bac
 Aubigny-en-Artois
+Aubigny-sur-Nère
 Aubin
-Aubin-Saint-Vaast
+Aubin-St-Vaast
 Auboué
 Aubrives
 Aubusson
@@ -126,265 +183,368 @@ Auchy-lès-Hesdin
 Audrieu
 Audruicq
 Audun-le-Roman
+Audun-le-Roman
 Auffay
-Aulnat Aéroport
+Aulnat-Aéroport
+Aulnay-sous-Bois
+Aulnay-sous-Bois
 Aulnay-sous-Bois
 Aulnoye-Aymeries
 Aumale
 Aumont-Aubrac
+Aunay-Tréon
+Auneau
+Auneau
 Auneau
 Auray
-Aurec-sur-Loire
+Aurec
 Aurillac
 Auterive
+Autet
+Autrey-lès-Gray
 Autun
 Auvers-sur-Oise
-Auxerre Saint-Gervais
+Auxerre-St-Gervais
 Auxonne
+Auxy-Juranville
 Avallon
 Avenay
-Avenue du Président Kennedy Maison de Radio France
-Avenue Foch
-Avenue Henri Martin
+Avenue-du-Président-Kennedy-Radio-France
+Avenue-Foch
+Avenue-Henri-Martin
 Avesnelles
-Avesnes-sur-Helpe
-Avignon Centre
-Avignon TGV
-Avignonet-Lauragais
+Avesnes
+Avignon-Centre
+Avignon-Centre
+Avignon-Fontcouverte
+Avignon-TGV
+Avignonet
 Avion
 Avord
 Avoudrey
 Avranches
 Avrechy
+Avrigny
 Ax-les-Thermes
 Ay
-Aytré Plage
+Ayron-Latillé
+Aytré
+Aytré-Plage
 Azay-le-Rideau
 Azay-sur-Cher
 Azerailles
 Babinière
 Baccarat
-Bagnac-sur-Célé
+Bacouël
+Badan
+Badan
+Bagnac
 Bagneaux-sur-Loing
-Bagnols - Chadenet
-Bagnols-sur-Cèze
+Bagnols-Chadenet
+Baigts-de-Béarn
 Baillargues
 Bailleau-le-Pin
 Bailleul
 Bailleul-Sir-Berthoult
+Bailleul-sur-Thérain
 Bains-les-Bains
 Bainville-sur-Madon
 Baisieux
-Balagny Saint-Épin
+Balagny-St-Épin
 Balbigny
-Ballan-Miré
-Ballancourt-sur-Essonne
-Balsièges
-Banassac - La Canourgue
+Baleycourt
+Ballan
+Ballancourt
+Balsièges-Bourg
+Banassac-La Canourgue
 Bandol
 Bannalec
+Bantzenheim
 Bantzenheim
 Banyuls-sur-Mer
 Bar-le-Duc
 Bar-sur-Aube
-Baraqueville Carcenac Peyralès
-Barentin
+Bar-sur-Seine
+Baraqueville-Carcenac-Peyralès
+Barbentane-Rognonas
+Barentin-Embranchement
+Barentin-Embranchement
 Barenton-Bugny
 Barjac
+Baroncourt
 Baroncourt
 Barr
 Barsac
 Bartenheim
-Bas - Monistrol-sur-Loire
-Bas Évette
+Bas-Évette
+Bas-Évette
+Bas-Monistrol
 Base Aérienne
 Basse-Ham
 Bassens
+Bassens
+Bassens-Appontements
+Bassens-Appontements
+Batilly
 Batz-sur-Mer
+Baud
 Baule
 Baume-les-Dames
-Bauvin - Provin
+Bauvin-Provin
+Bauvin-Provin
+Bavay
+Bavay
 Bayard
 Bayeux
 Bayon
 Bayonne
+Bayonne-Allées-Marines
 Bazancourt
+Bazeilles
 Baziège
+Bazoches
 Béard
-Beau Marais
+Beau-Marais
 Beaucaire
+Beaucaire-Marchandises
+Beaucaire-Marchandises
 Beaugency
+Beaulieu-Le Coudray
 Beaulieu-sur-Mer
+Beaumont-de-Lomagne
 Beaumont-le-Roger
 Beaune
+Beaune-la-Rolande
 Beaurainville
+Beaurepaire
 Beautiran
 Beauvais
 Beauvoir-sur-Niort
 Beauvoisin
-Bécon les Bruyères
+Bécon-les-Bruyères
+Bédarieux
 Bédarieux
 Bédarrides
 Bedous
 Bègles
 Beillant
+Beillant
+Beinheim-Embranchement
 Belfort
-Belfort - Montbéliard TGV
+Belfort
+Belfort
+Belfort-Montbéliard-TGV
 Bellac
-Belle-Isle - Bégard
-Bellegarde-sur-Valserine
+Belle-Isle-Bégard
+Bellegarde
+Bellegarde
 Bellenaves
-Bellevigny
 Belleville
-Belleville sur Sâone
+Belleville-sur-Saône
+Belleville-Vendée
 Bellevue
 Bellignat
-Belloy - Saint-Martin
+Belloy-St-Martin
 Belvès
 Belvezet
-Belz - Ploemel
-Bena Fanes
+Belz-Ploemel
+Béna-Fanes
 Bénesse-Maremne
 Bénestroff
+Bénestroff
+Bénestroff
 Benfeld
-Bengy-sur-Craon
-Béning-lès-Saint-Avold
+Bengy
+Béning
+Béning
 Bergerac
 Bergues
 Berlaimont
 Bernay
-Bersac-sur-Rivalier
+Berre
+Bersac
+Berthelming
 Berthelming
 Bertrichamps
 Bertry
-Besançon Franche-Comté TGV
-Besançon Mouillère
-Besançon Viotte
+Besançon-Franche-Comté-TGV
+Besançon-Mouillère
+Besançon-St-Fergeux
+Besançon-Viotte
 Beslé
 Bessancourt
-Bessay-sur-Allier
+Bessay
+Bessé-sur-Braye
+Bessines
 Bétaille
+Bétheniville
 Béthune
+Béthune-Rivage
 Betton
 Beuvrages
-Beuvry lès Béthune
+Beuvrages
+Beuvry (Pas-de-Calais)
+Beuzeville (Eure)
 Beynes
 Beynost
 Béziers
-Biache-Saint-Vaast
+Biache-St-Vaast
 Biarritz
-Bibliothèque François Mitterrand
-Bidarray Pont Noblia
+Bibliothèque-François-Mitterrand
+Bidarray-Pont-Noblia
 Bidos
 Bièvres
 Biffontaine
-Biganos Facture
 Bigny
 Billy-Montigny
 Biot
 Bischheim
 Bischoffsheim
 Bischwiller
-Bitschwiller-lès-Thann
-Blainville - Damelevières
+Bitche-Camp
+Bitschwiller (Haut-Rhin)
+Blagny
+Blainville-Damelevières
 Blaisy-Bas
+Blanc-Misseron
+Blanc-Misseron
 Blangy-sur-Bresle
 Blangy-sur-Ternoise
 Blanquefort
 Blanzy
-Bléré - La Croix
-Blois - Chambord
-Blonville-sur-Mer - Benerville
-Boën-sur-Lignon
+Blanzy-Poste
+Blaye
+Bléré-la-Croix
+Blodelsheim
+Blois-Chambord
+Blonville-sur-Mer-Benerville
+Bobigny
+Bobigny
+Boën
 Bogny-sur-Meuse
-Bohain-en-Vermandois
+Bohain
 Boigneville
 Bois-Colombes
-Bois-d'Oingt - Légny
+Bois-Colombes
+Bois-d'Oingt-Légny
 Bois-le-Roi
-Boisleux-au-Mont
+Boisleux
 Boisseaux
 Boisset
 Boissise-le-Roi
 Boissy-l'Aillerie
-Bollène La Croisière
+Bolbec-Nointot
+Bollène-la-Croisière
+Bollwiller
 Bollwiller
 Bologne
-Bolquère - Eyne
+Bologne
+Bolquère-Eyne
+Bon-Encontre
+Bon-Encontre
 Bondy
+Bondy
+Bonnard-Bassou
 Bonnemain
 Bonneval
 Bonneville
-Bonnières-sur-Seine
+Bonnières
 Bons-en-Chablais
 Bonson
 Boran-sur-Oise
-Bordeaux Saint-Jean
+Bordeaux-Bastide
+Bordeaux-St-Jean
+Bordeaux-St-Jean
+Bordeaux-St-Jean
 Bords
-Bornel - Belle-Église
+Bornel-Belle-Église
+Bossey-Veyrier
 Bouaye
-Boucau
 Bouchain
-Boucoiran-et-Nozières
-Bouffémont - Moisselles
+Boucoiran
+Bouffémont-Moisselles
 Bougival
+Bouilly-Roncenay
 Boulainvilliers
 Boulazac
-Boulogne Tintelleries
-Boulogne-sur-Mer
-Boulouris sur Mer
+Boulogne-Tintelleries
+Boulouris-sur-Mer
 Bouray
 Bourbourg
 Bourg-Bruche
 Bourg-en-Bresse
+Bourg-en-Bresse
+Bourg-en-Bresse
+Bourg-en-Bresse
+Bourg-en-Bresse
 Bourg-Madame
-Bourg-Saint-Maurice
+Bourg-St-Maurice
+Bourganeuf
 Bourges
 Bourgneuf-en-Retz
 Bourgoin-Jallieu
-Bourgtheroulde - Thuit-Hébert
+Bourgtheroulde-Thuit-Hébert
 Bournezeau
-Bourron-Marlotte - Grez
-Boussay - La Bruffière
+Bourron-Marlotte-Grez
+Bourth
+Boussay-La Bruffière
 Boussens
-Boussy-Saint-Antoine
+Boussy-St-Antoine
 Bouthéon
-Boutigny-sur-Essonne
+Boutigny
+Bouvines
+Bouy
 Bouzonville
 Boves
+Boves
+Braine
 Bram
 Brandérion
-Brassac-les-Mines - Sainte-Florine
-Brax - Léguevin
+Brassac-les-Mines-Ste-Florine
+Brax-Léguevin
 Brazey-en-Plaine
-Bréauté - Beuzeville
-Brebières
+Bréauté-Beuzeville
+Brebières-Sud
+Breil-sur-Roya
 Breil-sur-Roya
 Breitenbach
-Brélidy - Plouëc
+Brélidy-Plouëc
+Brens-Virignin
+Bresles
+Bressuire
 Bressuire
 Brest
 Breteil
-Bretenoux - Biars
+Bretenoux-Biars
 Breteuil
-Bretigny - Norges
-Brétigny-sur-Orge
+Breteuil-Embranchement
+Breteuil-Ville
+Brétigny
+Bretigny-Norges
 Bretoncelles
-Bretteville - Norrey
-Breuil - Romain
-Breuillet - Bruyères-le-Châtel
-Breuillet Village
+Bretteville-Norrey
+Breuil-Romain
+Breuillet-Bruyères-le-Châtel
+Breuillet-Village
 Bréval
 Briançon
 Briare
+Bricon
+Bricon
+Bricy-Boulay
+Brienne-le-Château
+Brienon
 Brignac
 Brignais
 Brignoud
 Brimeux
-Brion - Laizy
-Brion - Montréal-la-Cluse
+Brion-Laizy
+Brion-Montréal-la-Cluse
+Brion-Montréal-la-Cluse
+Brion-sur-Ource
 Brionne
 Brioude
+Briouze
 Briouze
 Brive-la-Gaillarde
 Broons
@@ -395,319 +555,439 @@ Brumath
 Brunémont
 Brunoy
 Bruyères
+Bruyères
 Bruyères-sur-Oise
 Bruz
+Bry-sur-Marne
+Buchères-Verrières
+Bueil
 Bueil
 Bugeat
 Buire-sur-l'Ancre
-Bully - Grenay
-Buno - Gironville
+Bully-Grenay
+Buno-Gironville
 Busigny
-Bussac-Forêt
-Busseau sur Creuse
+Bussac
+Busseau-sur-Creuse
 Bussière-Galant
-Buzy en Béarn
-Byans-sur-Doubs
+Bussière-Galant
+Bussy-Lettrée-Vatry
+Buzançais
+Buzançais
+Buzy (Meuse)
+Buzy-en-Béarn
+Buzy-en-Béarn
+Byans
 Cadaujac
 Caen
 Caffiers
 Cagnes-sur-Mer
 Cahors
-Calais
-Calais - Fréthun
+Calais-Fréthun
+Calais-Fréthun
+Calais-Ville
 Callac
 Calonne-Ricouart
 Cambo-les-Bains
 Cambrai
-Campagnac - Saint-Geniez
+Cambrai-Annexe
+Campagnac-St-Geniez
+Campagne
 Cannes
-Cannes La Bocca
+Cannes-la-Bocca
+Cannes-la-Bocca
+Cannes-Marchandises
 Cantin
 Cap-d'Ail
+Cap-Martin-Roquebrune
 Capdenac
 Capvern
+Carantilly-Marigny
 Carbonne
 Carcassonne
 Carentan
-Carhaix-Plouguer
+Carhaix
 Carignan
 Carmaux
-Carnoët - Locarn
-Carnoles
+Carnoët-Locarn
+Carnolès
 Carnoules
 Carpentras
+Carpentras
+Carquefou
 Carry-le-Rouet
-Casino Lacroix Laval
+Cases-de-Pène
+Casino-Lacroix-Laval
 Cassel
 Cassis
 Castelnau-d'Estrétefonds
 Castelnaudary
 Castelsarrasin
-Castillon-la-Bataille
+Castelsarrasin
+Castillon
 Castres
 Cattenières
-Caudéran Mérignac
+Caudéran-Mérignac
+Caudiès
 Caudrot
 Caudry
 Caulnes
 Caussade
 Cavaillon
+Cavaillon
+Cavaillon (MIN)
 Cavignac
-Cazères
-Ceilhes - Roqueredonde
+Cavignac
+Cazères-sur-Garonne
+Ceilhes-Roqueredonde
 Ceintrey
+Celon
 Cenon
 Cerbère
 Cercottes
 Cercy-la-Tour
-Cergy le Haut
-Cergy Préfecture
-Cergy Saint-Christophe
+Cercy-la-Tour
+Cergy-le-Haut
+Cergy-Préfecture
+Cergy-St-Christophe
 Cerizay
-Cernay (Haut-Rhin)
-Cernay (Val-d'Oise)
+Cernay
+Cernay
 Cérons
 Cessieu
 Cesson
 Cesson-Sévigné
 Ceyzériat
+Chabanais
 Chabenet
 Châbons
 Chabris
 Chagny
-Chaingy Fourneaux Plage
+Chagny
+Chagny
+Chaingy-Fourneaux-Plage
 Chalais
+Chalandray
 Challans
 Chalon-sur-Saône
-Chalonnes-sur-Loire
+Chalonnes
 Châlons-en-Champagne
 Chamalières-sur-Loire
 Chamarande
-Chambéry - Challes-les-Eaux
+Chambéry-Challes-les-Eaux
 Chambly
 Chamborigaud
-Chambourg-sur-Indre
+Chambourg
 Chamelet
-Chamonix Aiguille du Midi
+Chamonix-Aiguille du Midi
 Chamonix-Mont-Blanc
 Chamousset
-Champ de Courses d'Enghien
-Champ de Mars Tour Eiffel
+Chamousset
+Champ-de-Courses-d'Enghien
+Champ-de-Mars-Tour-Eiffel
+Champ-de-Mars-Tour-Eiffel
 Champagné
-Champagne-Ardenne TGV
+Champagne-Ardenne-TGV
+Champagne-Ardenne-TGV
 Champagne-sur-Oise
 Champagne-sur-Seine
 Champagney
 Champagnole
-Champagnole Paul-Émile Victor
-Champbenoist - Poigny
+Champbenoist-Poigny
 Champigneulles
-Champigny sur Yonne
+Champigny-sur-Yonne
 Champlan
-Champs - Saint-Bris
+Champs-St-Bris
 Champtocé-sur-Loire
 Chanac
-Changis - Saint-Jean
+Changis-St-Jean
 Chanteloup-les-Vignes
 Chantenay
-Chantenay-Saint-Imbert
-Chantilly - Gouvieux
+Chantenay-St-Imbert
+Chantilly-Gouvieux
+Chantonnay
 Chantonnay
 Chapeauroux
 Chaponost
 Chaponval
 Charbonnières-les-Bains
 Charleville-Mézières
+Charmant
 Charmes
+Charmont
 Chars
 Chartres
 Chartrettes
 Chasse-sur-Rhône
-Chasseneuil-du-Poitou
+Chasse-sur-Rhône
+Chasseneuil (Vienne)
 Chasseneuil-sur-Bonnieure
 Chasseradès
-Château-Arnoux-Saint-Auban
+Château-Arnoux-St-Auban
+Château-Arnoux-St-Auban
+Château-Chinon
+Château-du-Loir
 Château-du-Loir
 Château-Gaillard
+Château-Gontier
 Château-l'Évêque
 Château-Renault
 Château-Thierry
 Châteaubourg
 Châteaubriant
+Châteaubriant Tram-Train
 Châteaudun
 Châteaulin
-Châteauneuf - Bujaleuf
+Châteauneuf-Bujaleuf
 Châteauneuf-sur-Charente
 Châteauneuf-sur-Cher
+Châteauneuf-sur-Loire
 Châteauroux
-Châtel - Nomexy
 Châtel-Censoir
-Châtelaillon-Plage
-Châtelaudren - Plouagat
+Châtel-Nomexy
+Châtelaillon
+Châtelaudren-Plouagat
 Châtellerault
-Châtillon d'Azergues
+Châtenois (Bas-Rhin)
+Châtenois-Dolaincourt
+Châtillon-d'Azergues
+Châtillon-sur-Indre
+Châtillon-sur-Loire
+Châtillon-sur-Seine
+Châtillon-sur-Seine
+Châtillon-sur-Seine
+Châtres (Aube)
 Chauffailles
 Chaugey
 Chaulnes
+Chaulnes
+Chaumont
 Chaumont
 Chaumont-en-Vexin
 Chauny
-Chaux-des-Crotenay
-Chaville - Vélizy
-Chaville Rive Droite
-Chaville Rive Gauche
-Chazay - Marcilly
+Chavanges
+Chavenon
+Chaville-Rive-Droite
+Chaville-Rive-Gauche
+Chaville-Vélizy
+Chazay-Marcilly
+Chécy-Mardié
 Chedde
 Cheilly-lès-Maranges
-Chelles - Gournay
-Chemillé-en-Anjou
-Chemilly - Appoigny
-Chemin d'Antony
+Chelles-Gournay
+Chemillé
+Chemilly-Appoigny
+Chemin-d'Antony
+Chemin-Peseux
 Chenevières
-Chenonceaux
-Chépy - Valines
-Cherbourg-en-Cotentin
+Chenonceaux-Chisseaux
+Chepy-Valines
+Cherbourg
 Chessy
 Chevaigné
+Chevigny-St-Sauveur
 Chevillon
 Chevilly
+Chèvremont
 Chevrières
+Chevry
 Chézy-sur-Marne
 Chilly-Mazarin
 Chindrieux
 Chinon
 Chirac
 Chissay-en-Touraine
+Chivres-en-Laonnois
 Chocques
+Choisy-le-Roi
 Choisy-le-Roi
 Cholet
 Chorges
-Chouzy-sur-Cisse
+Chouzy
 Cinq-Mars-la-Pile
 Cintegabelle
 Cires-lès-Mello
 Ciry-le-Noble
+Ciry-Sermoise
+Civray-Ville
 Civrieux-d'Azergues
-Cize - Bolozon
-Clacy - Mons
+Civry-St-Cloud
+Cize-Bolozon
+Clacy-Mons
+Clairvaux
 Clamart
 Clamecy
-Clelles - Mens
+Clamecy
+Clelles-Mens
+Clérac-Charente
 Clères
-Clermont de l'Oise
-Clermont La Pardieu
-Clermont La Rotonde
-Clermont-en-Argonne
+Clères
+Clermont-de-l'Oise
 Clermont-Ferrand
+Clermont-La Pardieu
+Clermont-La Rotonde
+Clermont-les-Fermes
 Clerval
-Clichy - Levallois
+Clichy-Levallois
+Clichy-Levallois
+Clichy-Levallois
+Clichy-Levallois
+Clion-sur-Indre
+Clion-sur-Seugne
 Clisson
-Cloyes-sur-le-Loir
+Clonas
+Cloyes
 Cluses
-Coarraze - Nay
-Coat Guégan
+Coarraze-Nay
+Coat-Guégan
+Cobrieux
+Cocheren
 Cognac
 Coignières
+Colayrac
+Coligny (Marne)
+Colleville-Ste-Hélène
 Collioure
-Collonges - Fontaines
-Collonges-lès-Premières
+Collonges
+Collonges-Fontaines
 Colmar
-Colmar Mésanges
-Colmar Saint-Joseph
+Colmar
+Colmar
+Colmar-Mésanges
+Colmar-St-Joseph
+Colombes
 Colombes
 Colombier-Fontaine
+Colombiers
 Colomiers
-Colomiers Lycée International
+Colomiers-Lycée-International
+Colroy-Lubine
+Coltainville
 Combourg
-Combs-la-Ville - Quincy
+Combs-la-Ville-Quincy
 Comines
+Commentry
 Commentry
 Commercy
 Compans
 Compiègne
-Conches-en-Ouche
-Condat - Le Lardin
+Concarneau
+Conches
+Conchil-le-Temple
+Condat-le-Lardin
 Condé-sur-Huisne
-Conflans - Jarny
-Conflans Fin d'Oise
-Conflans-Sainte-Honorine
+Condé-sur-Vire
+Condom
+Conflans-Fin-d'Oise
+Conflans-Fin-d'Oise
+Conflans-Jarny
+Conflans-Jarny
+Conflans-Jarny
+Conflans-Ste-Honorine
 Conlie
-Connerré - Beillé
+Connantre
+Connerré-Beillé
 Contrexéville
 Corbehem
 Corbeil-Essonnes
+Corbeil-Essonnes
+Corbeil-Essonnes
 Corbie
 Corbigny
-Corcieux Vanémont
+Corcieux-Vanémont
 Corcy
 Cordemais
-Cordes - Vindrac
+Cordes-Vindrac
 Corgoloin
 Cormeilles-en-Parisis
 Cormery
 Cornil
-Coron de Méricourt
+Coron-de-Méricourt
 Corps-Nuds
 Corrèze
-Corseul - Languenan
-Cosne-Cours-sur-Loire
+Corseul-Languenan
+Cosne-sur-Loire
 Coucy-lès-Eppes
 Coudekerque-Branche
+Coudekerque-Branche
+Coudray-Montceaux
 Couëron
-Couffoulens - Leuc
-Couilly - Saint-Germain - Quincy
+Couffoulens-Leuc
+Couhé-Vérac
+Couilly-St-Germain
+Couiza-Montazels
 Coulanges-sur-Yonne
+Couliboeuf
+Coulombiers
 Coulommiers
 Courbevoie
-Courcay - Tauxigny
+Courcay-Tauxigny
 Courcelles-le-Comte
 Courcelles-sur-Nied
-Courcy - Brimont
+Courcy-Brimont
 Coursan
-Courtalain - Saint-Pellerin
+Courtalain-St-Pellerin
+Courtenay
 Courthézon
 Courville-sur-Eure
+Courzieu-Brussieu
 Cousance
+Coussac-Bonneval
+Coussey
 Coutances
 Coutras
 Couze
+Couzon (Loire)
 Couzon-au-Mont-d'Or
 Cramoisy
+Crancey
 Cransac
-Cravant - Bazarnes
+Cravant-Bazarnes
 Crêches-sur-Saône
-Crécy-la-Chapelle
+Crécy-La Chapelle
 Creil
-Crépieux la Pape
-Crépy - Couvron
+Crépieux-la-Pape
+Crépy-Couvron
+Crépy-en-Valois
 Crépy-en-Valois
 Crest
-Créteil Pompadour
-Croix - Wasquehal
-Croix du Prince
-Croix L'Allumette
-Croix Sainte
-Cros de Cagnes
+Créteil-Pompadour
+Creutzwald
+Crissé
+Crissey
+Croix-l'Allumette
+Croix-Sainte
+Croix-Wasquehal
+Cros-de-Cagnes
+Crotelles
 Crouy
 Crouy-sur-Ourcq
+Cruas
 Cubzac-les-Ponts
-Cuers - Pierrefeu
+Cuers-Pierrefeu
 Cugand
 Cuinchy
-Culmont - Chalindrey
+Culmont-Chalindrey
+Culmont-Chalindrey
+Culmont-Chalindrey
 Culoz
+Culoz
+Cusset
+Cysoing
 Dachstein
 Dambach-la-Ville
-Damiatte - Saint-Paul
-Dammartin - Juilly - Saint-Mard
-Dangé-Saint-Romain
-Danjoutin
+Damblain
+Damiatte-St-Paul
+Dammartin-Juilly-St-Mard
+Dangé
 Dannemarie
-Dannemarie - Velesmes
-Dannes - Camiers
+Dannemarie-Velesmes
+Dannes-Camiers
 Daours
-Dardilly Le Jubin
-Dardilly Les Mouilles
+Darcey (Côte-d'Or)
+Dardilly-le-Jubin
+Dardilly-les-Mouilles
+Darsac
 Darsac
 Dax
 Decize
@@ -715,201 +995,292 @@ Dégagnac
 Delle
 Deluz
 Denain
-Dercy - Froidmont
+Dercy-Froidmont
+Dercy-Mortiers
+Desvres
 Dettwiller
-Deuil - Montmagny
+Deuil-Montmagny
 Deûlémont
+Devecey
 Deville
 Diarville
 Die
 Diemeringen
+Diemeringen
+Dienville
+Dieppe
+Dieppe
 Dieppe
 Dieulouard
 Dieupentale
 Digoin
-Dijon
-Dijon Porte Neuve
+Dijon-Porte-d'Ouche-Perrigny
+Dijon-Porte-Neuve
+Dijon-Ville
+Dijon-Ville
+Dijon-Ville
+Dijon-Ville
 Dinan
 Dingé
-Dirinon
+Dirinon Loperhet
+Dirinon Loperhet
 Dissay
-Dives-sur-Mer - Cabourg
-Dives-sur-Mer Port Guillaume
-Docelles - Cheniménil
+Distroff
+Dives-Cabourg
+Dives-sur-Mer-Port-Guillaume
+Docelles-Cheniménil
 Dol-de-Bretagne
 Dole
 Dombasle-sur-Meurthe
-Domblans - Voiteur
-Domfront-en-Champagne
-Dommartin - Lissieu
-Dommartin - Remiencourt
+Domblans-Voiteur
+Domène
+Domfront
+Dommartin-Lissieu
+Dommartin-Remiencourt
 Domont
-Dompierre Sept Fons
-Dompierre-sur-Helpe
-Don - Sainghin
+Dompierre
+Dompierre-Sept-Fons
+Dompierre-sur-Mer
+Don-Sainghin
+Don-Sainghin
 Donchery
 Donges
 Donjeux
+Dontrien
 Donzère
 Dordives
 Dorlisheim
 Dormans
 Douai
+Douai
+Doulon
+Doulon
 Dourdan
-Dourdan La Forêt
+Dourdan-la-Forêt
 Dourges
+Douzies
+Douzillac
 Drancy
-Drap - Cantaron
+Drap-Cantaron
 Drefféac
 Dreuil-lès-Amiens
 Dreux
+Dreux
+Dreux
+Drulingen
 Drusenheim
 Druye
-Dugny - La Courneuve T11
+Dugny
+Dugny-La Courneuve TT
 Dunkerque
+Dunkerque
+Dunkerque-Port-Est
+Dunkerque-Port-Ouest
 Duppigheim
-Durtol - Nohanent
+Durtol-Nohanent
 Duttlenheim
 Ebblinghem
 Ebersheim
+Ébersviller
 Échirolles
 École-Valentin
 Écommoy
 Écouché
-Écouen - Ézanville
-Ecully - Tassin
+Écouen-Ézanville
+Écouflant
+Écully-la-Demi-Lune
 Égletons
 Égly
-Éguzon-Chantôme
+Éguzon
 Eichhoffen
 Einvaux
-Elbeuf - Saint-Aubin
+Elbeuf-St-Aubin
+Elbeuf-Ville
+Elne
 Elne
 Éloyes
 Embrun
-Émerainville - Pontault-Combault
+Émerainville-Pontault-Combault
+Empalot
+Engenville
 Enghien-les-Bains
 Ennevelin
+Ennezat-Clerlande
 Entraigues-sur-la-Sorgue
-Entzheim Aéroport
+Entrains
+Entressen
+Entzheim
 Épanvilliers
-Épernay
+Épehy
+Epernay
 Épernon
 Epfig
-Épierre - Saint-Léger
+Épierre-St-Léger
 Épinal
-Épinay - Villetaneuse
-Épinay - Villetaneuse T11
+Épinal
 Épinay-sur-Orge
 Épinay-sur-Seine
-Épinay-sur-Seine T11
+Épinay-sur-Seine TT
+Épinay-Villetaneuse
+Épinay-Villetaneuse
+Épinay-Villetaneuse TT
+Epiry-Montreuillon
 Épluches
-Épône - Mézières
+Époisses
+Épône-Mézières
+Épône-Mézières
 Épouville
-Éragny - Neuville
-Erdre Active
-Ermont - Eaubonne
-Ermont Halte
+Éragny-Neuville
+Erdre-Active
+Ermont-Eaubonne
+Ermont-Eaubonne
+Ermont-Eaubonne
+Ermont-Eaubonne (PSL)
+Ermont-Halte
 Err
 Erstein
 Esbly
+Esbly
 Escalquens
-Escaudœuvres
+Escaudoeuvres
 Esches
+Espéraza
+Espira-de-l'Agly
 Esquelbecq
-Essonnes Robinson
+Essonnes-Robinson
 Estavar
-Estrées-Saint-Denis
+Esternay
+Estissac
+Estrées-St-Denis
 Estressin
-Esvres sur Indre
+Esvres
 Étain
-Étainhus - Saint-Romain
+Étainhus-St-Romain
+Étais (GS)
 Étalans
 Étampes
-Étang-sur-Arroux
-Étaples - Le Touquet
-Étigny - Véron
+Étang
+Étaples-Le Touquet
+Étaples-Le Touquet
+Étigny-Véron
 Étival-Clairefontaine
 Étréchy
-Étriché - Châteauneuf
+Étrépagny
+Étriché-Châteauneuf
 Eu
+Eu
+Eurville-Bienville
 Évian-les-Bains
-Évreux Normandie
+Évreux-Embranchement
 Évron
-Évry Val de Seine
+Évry
 Évry-Courcouronnes
-Eymoutiers Vassivière
+Exideuil-sur-Vienne
+Eymoutiers-Vassivière
 Èze
+Facture-Biganos
+Fains-la-Folie
 Farbus
 Farébersviller
-Faremoutiers - Pommeuse
+Faremoutiers-Pommeuse
 Farschviller
-Faubourg d'Orléans
+Faubourg-d'Orléans
+Fauga
 Faulquemont
 Fécamp
-Fegersheim - Lipsheim
+Fegersheim-Lipsheim
+Feignies
 Fellering
 Felletin
-Fenouillet - Saint-Alban
+Fenouillet
+Fenouillet-St-Alban
 Fépin
-Ferrières - Fontenay
-Feuquières - Broquiers
-Feuquières - Fressenneville
+Fère-Champenoise
+Fère-Champenoise
+Fère-en-Tardenois
+Ferrière-la-Grande
+Ferrières-Fontenay
+Feuquerolles
+Feuquières-Broquiers
+Feuquières-Fressenneville
 Feurs
 Feyzin
 Figeac
+Figeac
 Firminy
 Fismes
+Flamboin-Gouaix
+Flamboin-Gouaix
 Flavy-le-Martel
 Flaxlanden
+Fléré-la-Rivière
 Flers
+Fleurance
 Fleurieux-sur-l'Arbresle
-Fleurville - Pont-de-Vaux
-Flez-Cuzy - Tannay
+Fleurville-Pont-de-Vaux
+Flez-Cuzy-Tannay
+Florange
+Florensac
 Foëcy
 Foix
 Folligny
-Fons - Saint-Mamert
+Folligny
+Fons-St-Mamert
 Font-Romeu-Odeillo-Via
 Fontaine-le-Port
-Fontainebleau - Avon
-Fontaines - Mercurey
-Fontan - Saorge
+Fontainebleau-Avon
+Fontaines-d'Ozillac
+Fontaines-Mercurey
+Fontan-Saorge
+Fontenay-le-Comte
+Fontenay-le-Comte
 Fontenay-le-Fleury
 Fontenoy-sur-Moselle
-Fontpédrouse
+Fontpédrouse-St-Thomas-les-Bains
 Forbach
 Formerie
 Fors
+Fort-l'Écluse-Collonges
+Fos-Coussoul
+Fos-Graveleau
+Fos-Mériquette
+Fos-Mole-Central
 Fos-sur-Mer
-Foucart - Alvimare
+Fos-Viguerat
+Fossé-Marolles
+Foucart-Alvimare
 Fouday
 Foug
-Fougeray - Langon
+Fougeray-Langon
 Fougeré
+Fougerolles
 Fouilloy
 Fouquereuil
 Fourchambault
 Fourmies
-Fraisses - Unieux
-Franchet d'Esperey
+Fraisses-Unieux
+Franchet-d'Esperey
 Francheville
-Franconville - Le Plessis-Bouchard
+Franconville-Plessis-Bouchard
 Franois
+Franois
+Franxault
 Frasne
-Freinville Sevran
+Freinville-Sevran
+Freistroff
 Fréjus
-Fréjus - Saint-Raphael Autotrain
-Frénouville - Cagny
+Frénouville-Cagny
 Frépillon
 Fresnoy-le-Grand
-Fréteval - Morée
+Fréteval-Morée
 Fretin
 Frévin-Capelle
 Fromental
-Froncles Buxières
+Froncles
 Frontenex
 Frontignan
+Fronville
+Frouard
 Frouard
 Frynaudour
 Fumay
@@ -917,191 +1288,248 @@ Futuroscope
 Gadagne
 Gagny
 Gaillac
-Gaillon - Aubevoye
-Gallargues-le-Montueux
-Gallieni Cancéropôle
+Gaillon-Aubevoye
+Gallargues
+Galliéni-Cancéropole
 Galuzot
 Gambsheim
 Gan
-Gandrange - Amnéville
+Gandrange-Amnéville
 Gannat
 Gannes
 Gap
-Garancières - La Queue
-Garches - Marnes-la-Coquette
+Garancières-la-Queue
+Garches-Marnes-la-Coquette
 Garchizy
 Gardanne
 Gardonne
-Gargan
 Gargenville
-Garges - Sarcelles
+Garges-Sarcelles
+Garnay
 Gauriaguet
 Gazeran
-Gazinet Cestas
+Gazinet-Cestas
 Geispolsheim
 Gemeaux
+Genech
 Génelard
 Générac
 Genlis
+Gennes-Longuefuye
 Gennevilliers
 Génolhac
+Gensac-la-Pallue
+Gérard
+Gergy
 Germaine
 Gertwiller
 Gerzat
 Gestel
 Gevrey-Chambertin
 Gien
+Gien
+Gien
 Gièvres
-Gignac - Cressensac
+Gièvres
+Gignac-Cressensac
 Gilley
 Gilly-sur-Loire
-Gimont Cahuzac
-Gironde-sur-Dropt
+Gimont-Cahuzac
+Giromagny
+Gironcourt-Houécourt
+Gironde
 Gisors
 Givet
 Givors
-Givors Canal
-Golfe Juan Vallauris
+Givors
+Givors-Canal
+Givors-Canal
+Givors-Canal
+Glos-Montfort
+Glos-Montfort
+Golfe-Juan-Vallauris
+Golfech
+Gommiers
 Goncelin
+Gondrecourt-le-Château
 Gonfaron
 Gorges
 Gourdon
 Gourland
-Gournay - Ferrières
+Gournay-Ferrières
 Goussainville
 Goxwiller
 Graffenstaden
 Graffenwald
 Gragnague
 Gramat
-Grand Bourg
+Grand-Bourg
+Grand-Quevilly
+Grand-Quevilly
+Grand'Combe-La Pise
 Grande-Synthe
+Grandpuits
+Grandpuits-Bagneux
 Grandvillars
 Grandvilliers
 Granville
 Grasse
 Gravelines
-Gravigny Balizy
+Gravenchon-Port-Jérome
+Gravigny-Balizy
+Gray
+Grenade-sur-l'Adour
 Grenoble
-Grenoble Universités - Gières
+Grenoble
+Grenoble-Université-Gières
+Grenoble-Université-Gières
 Gresswiller
 Grésy-sur-Aix
 Grésy-sur-Isère
 Gretz-Armainvilliers
-Grigny Centre
-Grigny le Sablon
+Gretz-Armainvilliers
+Grigny-Centre
 Grisolles
-Groisy - Thorens-Glières
-Gros Noyer Saint-Prix
+Groisy-Thorens-la-Caille
+Gros-Noyer-St-Prix
 Groslay
 Gudmont
-Guérard - La Celle-sur-Morin
+Guérard-La Celle-sur-Morin
 Guéret
+Guérigny
 Guéthary
-Guichen - Bourg-des-Comptes
+Guichen-Bourg-des-Comptes
 Guignicourt
+Guillaucourt
 Guillerval
 Guimiliau
 Guingamp
 Gujan-Mestras
 Gundershoffen
-Gunsbach - Griesbach
+Gunsbach-Griesbach
 Habsheim
 Hachette
+Hagetmau
+Hagondange
 Hagondange
 Haguenau
-Halsou - Larressore
-Halte de Fontanil – Lycée de Drap
-Haluchère Batignolles
+Haguenau
+Haguenau
+Haguenau
+Halsou-Larressore
+Halte de Fontanil-Lycée de Drap
+Haluchère-Batignolles
 Ham
 Ham-en-Artois
-Hangest-sur-Somme
+Hangest
 Harfleur
-Harfleur Halte
-Hargicourt - Pierrepont
+Harfleur-Halte
+Hargicourt-Pierrepont
+Hasenrain
 Hatrize
 Haubourdin
-Haussmann Saint-Lazare
-Haute Picardie TGV
+Haubourdin
 Hautmont
+Hayange
 Hayange
 Haybes
 Hazebrouck
-Heiligenberg - Mollkirch
-Heilles - Mouchy
+Heilles-Mouchy
 Heilly
 Hellemmes
+Héming
 Hendaye
 Hénin-Beaumont
 Hennebont
+Herbeauvilliers
 Herbitzheim
 Herblay
 Herchies
 Héricourt
 Héricy
-Hermes - Berthecourt
+Hermes-Berthecourt
 Herny
 Herrlisheim
 Herrlisheim-près-Colmar
-Hesdigneul-lès-Boulogne
+Hesdigneul
 Hesdin
 Hettange-Grande
+Heyrieux
 Hirson
-Hirson Écoles
+Hirson
+Hirson
+Hirson-Écoles
 Hochfelden
 Hoelschloch
-Hoenheim Tram
+Hoenheim-Tram
 Hoerdt
 Hoffen
+Hombourg-Budange
 Hombourg-Haut
 Homécourt
 Houdan
 Houdemont
-Houilles - Carrières-sur-Seine
+Houilles-Carrières-sur-Seine
+Houilles-Carrières-sur-Seine
 Houlgate
 Hundling
+Huningue
 Hunspach
 Huriel
 Hyères
-Hymont - Mattaincourt
+Hymont-Mattaincourt
+Hymont-Mattaincourt
 Igney
-Igney - Avricourt
+Igney-Avricourt
 Igny
+Île-Napoléon
+Île-Napoléon-Garage
 Ille-sur-Têt
 Illfurth
 Illiers-Combray
 Imphy
-Ingersheim - Cité Scolaire
-Ingrandes sur Vienne
-Ingrandes-Le Fresne-sur-Loire
+Ingersheim-Cité-Scolaire
+Ingrandes-sur-Loire
+Ingrandes-sur-Vienne
 Ingwiller
 Invalides
-Irigny Yvours
+Irigny-Yvours
+Is-sur-Tille
+Is-sur-Tille
+Is-sur-Tille
 Is-sur-Tille
 Isbergues
-Isles - Armentières - Congis
+Isbergues
+Isles-Armentières
 Issé
 Issoire
-Issou - Porcheville
+Issou-Porcheville
 Issoudun
-Issy Val de Seine
-Issy-les-Moulineaux
+Issy
+Issy-Val-de-Seine
 Istres
 Iteuil
 Itxassou
 Ivry-sur-Seine
 Iwuy
-Jacques Monod la Demi-Lieue
+Jacques-Monod-La Demi-Lieue
+Jalons-les-Vignes
+Janville
 Janzé
+Jardres
 Jarnac
-Jarrie - Vizille
+Jarrie-Vizille
+Jarville-la-Malgrange
 Jarville-la-Malgrange
 Jassonneix
+Jatxou
 Jaunay-Clan
 Jaux
 Javel
+Jeandelize
+Jessains
 Jeumont
-Jœuf
+Joeuf
 Joigny
 Joigny-sur-Meuse
 Joinville
@@ -1110,109 +1538,139 @@ Joncherey
 Jonchery-sur-Vesle
 Jonzac
 Joué-lès-Tours
+Joué-lès-Tours
 Jouy
 Jouy-en-Josas
-Juan les Pins
-Juvisy-sur-Orge
+Juan-les-Pins
+Jussey
+Jussey
+Juvisy
+Juvisy
 Juziers
 Kalhausen
-Ker Lann
+Kalhausen
+Kédange
+Ker-Lann
 Kerhostin
 Kerhuon
 Keskastel
 Kilstett
 Koenigsmacker
 Kogenheim
-Krimmeri Meinau
+Krimmeri-Meinau
 Kruth
+Kuntzig
 Kurtzenhouse
 L'Abbaye
 L'Aigle
 L'Aiguille
 L'Arbresle
-L'Argentière Les Écrins
-L'Ariane La Trinité
+L'Arbresle
+L'Ardoise
+L'Argentière-les-Écrins
+L'Ariane
 L'Escarène
 L'Estaque
-L'Herbergement - Les Brouzils
-L'Hermitage - Mordelles
+L'Estaque
+L'Estaque
+L'Estaque
+L'Étang-la-Ville
+L'Hermitage-Mordelles
 L'Hôpital-du-Grosbois
 L'Hospitalet-près-l'Andorre
-L'Isle-Adam - Parmain
+L'Isle-Adam-Parmain
 L'Isle-d'Abeau
+L'Isle-Fontaine-de-Vaucluse
 L'Isle-Jourdain
-L'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse
 L'Isle-sur-le-Doubs
 L'Isthme
+La Bachellerie
 La Barasse
-La Barre Ormesson
-La Basse Indre - Saint-Herblain
-La Bassée - Violaines
-La Bastide - Saint-Laurent-les-Bains
-La Baule Les Pins
+La Barque-Fuveau
+La Barre-Ormesson
+La Basse-Indre-St-Herblain
+La Bassée
+La Bastide-St-Laurent-les-Bains
+La Bastide-St-Laurent-les-Bains
+La Bâthie
 La Baule-Escoublac
+La Baule-les-Pins
 La Bernerie-en-Retz
+La Bleuse-Borne
 La Bohalle
+La Boissière
 La Bonneville-sur-Iton
-La Borne Blanche
+La Borne-Blanche
 La Bouteille
 La Brigue
-La Brillanne - Oraison
+La Brillanne-Oraison
 La Brohinière
 La Cave
-La Celle-Saint-Cloud
+La Celle-Corrèze
+La Celle-St-Cloud
 La Chaize-le-Vicomte
-La Chapelle Aulnay
-La Chapelle Centre
-La Chapelle-Saint-Mesmin
+La Chapelle-Aulnay
+La Chapelle-Centre
+La Chapelle-Centre
+La Chapelle-d'Ambès
+La Chapelle-la-Reine
+La Chapelle-St-Mesmin
+La Chapelle-St-Ursin-Morthomiers
 La Chapelle-sur-Loire
 La Charité-sur-Loire
-La Chaumusse - Fort-du-Plasne
-La Chaussée-Saint-Victor
-La Ciotat - Ceyreste
-La Clayette - Baudemont
+La Chartre-sur-le-Loir
+La Chaumusse-Fort-du-Plasne
+La Chaussée-St-Victor
+La Chaux-des-Crotenay
+La Ciotat
+La Clayette-Baudemont
 La Coquille
-La Courneuve - Aubervilliers
+La Courneuve-Aubervilliers
+La Courneuve-Dugny
 La Couronne
-La Couronne Carro
+La Couronne-Carro
 La Crau
 La Crèche
-La Croix de Méan
+La Croix-de-Méan
+La Croix-du-Prince
 La Défense
-La Défense Grande Arche RER E
 La Douzillère
 La Faloise
 La Fère
 La Ferté-Alais
 La Ferté-Bernard
+La Ferté-Hauterive
 La Ferté-Imbault
 La Ferté-Milon
-La Ferté-Saint-Aubin
 La Ferté-sous-Jouarre
+La Ferté-St-Aubin
+La Folie-Nanterre
 La Fontaine
-La Forest-Landerneau
+La Forest
 La Fouillouse
 La Frayère
 La Fresnais
-La Frette - Montigny
+La Frette-Montigny
 La Garde
 La Garenne-Colombes
 La Gorp
-La Gouesnière - Cancale - Saint-Méloir-des-Ondes
-La Grand-Combe
+La Gouesnière-Cancale
 La Grande-Paroisse
-La Grave d'Ambarès
+La Grave-d'Ambarès-Gare-Inférieure
 La Guerche-sur-l'Aubois
 La Guierche
 La Haie-Fouassière
+La Haye-Descartes
 La Hisse
 La Hume
-La Hutte Coulombiers
+La Hutte-Coulombiers
+La Hutte-Coulombiers
 La Jarrie
-La Jonchère-Saint-Maurice
+La Jonchère
 La Joux
 La Levade
 La Loupe
+La Madeleine
 La Madeleine
 La Marche
 La Méaugon
@@ -1220,76 +1678,97 @@ La Membrolle-sur-Choisille
 La Ménitré
 La Meyze
 La Mothe-Achard
-La Mothe-Saint-Héray
-La Norville - Saint-Germain-lès-Arpajon
-La Pauline Hyères
+La Mothe-St-Héray
+La Motte-Ste-Rosseline
+La Norville-St-Germain-lès-Arpajon
+La Pauline-Hyères
 La Penne-sur-Huveaune
-La Plaine Stade de France - Saint-Denis - Aubervilliers
+La Plaine-Stade-de-France
+La Pointe-Bouchemaine
 La Pomme
 La Porcherie
 La Possonnière
+La Possonnière
 La Poterie
-La Redonne Ensuès
+La Redonne-Ensuès
 La Réole
 La Ricamarie
-La Rivière de Mansac
-La Rivière-Drugeon
+La Rivière
+La Rivière-de-Mansac
+La Roche-en-Brenil
 La Roche-Maurice
 La Roche-sur-Foron
 La Roche-sur-Yon
 La Rochefoucauld
-La Rochelle
-La Rochelle Porte Dauphine
-La Seyne - Six-Fours
+La Rochelle-Pallice
+La Rochelle-Porte-Dauphine
+La Rochelle-Ville
+La Rochelle-Ville
+La Seyne-Six-Fours
 La Souterraine
-La Suze-sur-Sarthe
+La Suze
 La Taye
-La Teste-de-Buch
+La Teste
 La Tour-de-Salvagny
 La Tour-du-Pin
 La Tricherie
-La Trinité Victor
+La Trinité-Victor
 La Valbonne
+La Vancelle
+La Varenne-Chennevières
 La Verpillière
 La Verrière
-La Ville Gozet
-La Ville-Dieu-du-Temple
-La Villette Saint-Prest
+La Veuve
+La Ville-Gozet
+La Ville-Gozet
+La Villette-St-Prest
+La Voulte-sur-Rhône
 La Wantzenau
-Labège Innopole
-Labège Village
+Labarthe-Avezac
+Labarthe-Inard
+Labège-Innopole
+Labège-Innopole
+Labège-Village
+Labège-Village
 Labenne
-Labergement-Sainte-Marie
-Laboissière - Le Déluge
+Labergement-Ste-Marie
+Laboissière-le-Déluge
 Labouheyre
 Labruguière
 Lacapelle-Viescamp
-Lacelle
-Lachaud Curmilhac
+Lachaud-Curmilhac
 Lacourtensourt
+Lacq
 Lafarge
-Lagny - Thorigny
+Lagnieu
+Lagny-Thorigny
 Laguépie
 Laifour
-Laigné - Saint-Gervais
+Laigné-St-Gervais
+Laignes
 Laigneville
 Laillé
 Laissac
 Laissey
-Lalbenque - Fontanes
+Lalande-Église
+Lalbenque-Fontanes
 Lalinde
+Laluque
 Lamagistère
 Lamanon
+Lamarche
 Lamballe
-Lamonzie-Saint-Martin
+Lamballe
+Lamonzie-St-Martin
 Lamothe-Landerron
 Lamothe-Montravel
 Lamotte-Beuvron
+Lamotte-Breuil
 Lamure-sur-Azergues
 Lancerf
 Lancey
 Landas
-Landaul - Mendon
+Landaul-Mendon
 Landébia
 Landerneau
 Landévant
@@ -1300,150 +1779,183 @@ Laneuveville-devant-Nancy
 Langeac
 Langeais
 Langogne
+Langogne
 Langon
 Langres
+Langres
+Lannemezan
 Lannemezan
 Lannion
 Lantenay
 Laon
 Lapeyrouse
-Laragne-Montéglin
+Lapeyrouse
+Lapradelle
+Laqueuille
+Laragne
+Larche
 Lardenne
 Lardy
-Laroche - Migennes
-Laroque-Timbaut
+Laroche-Migennes
+Laroche-Migennes
+Laroque
 Laroquebrou
-Lathus-Saint-Rémy
-Latour-de-Carol - Enveitg
+Lasserre
+Lathus
+Latour-de-Carol-Enveitg
+Latour-de-Carol-Enveitg
 Lauterbourg
 Laval
 Laval-de-Cère
+Lavannes-Caurel
+Lavaufranche
 Lavaufranche
 Lavaur
 Lavaveix-les-Mines
 Laveline-devant-Bruyères
+Laveline-devant-Bruyères
+Lavilledieu
 Lavilletertre
 Lavoûte-sur-Loire
+Layrac
+Le Bec-d'Ambès
 Le Blanc-Mesnil
 Le Bosquet
+Le Boucau
+Le Bouchet
+Le Boulou-Perthus
 Le Bourget
-Le Bourget T11
-Le Bouscat - Saint-Germaine
 Le Bousquet-d'Orb
-Le Bras de Fer
+Le Bras-de-fer
 Le Breuil-sur-Couze
+Le Bruel
 Le Buet
 Le Bugue
-Le Buisson-de-Cadouin
+Le Buisson
+Le Buisson
 Le Burg
 Le Cailar
-Le Cateau-Cambrésis
+Le Cateau
 Le Cellier
-Le Cendre - Orcet
+Le Cendre-Orcet
 Le Chambon-Feugerolles
-Le Chénay Gagny
+Le Cheylas-La Buissière
 Le Coteau
-Le Coudray-Montceaux
 Le Creusot
-Le Creusot - Montceau-les-Mines - Montchanin TGV
+Le Creusot-Montceau-Montchanin
+Le Creusot-Montceau-Montchanin
 Le Croisic
 Le Dorat
+Le Douhet-Écoyeux
 Le Dramont
-Le Fauga
-Le Genest-Saint-Isle
-Le Grand Jardin
+Le Genest
+Le Grand-Jardin
 Le Grand-Lemps
 Le Grau-du-Roi
-Le Haut Banc
+Le Haut-Banc
 Le Havre
-Le Havre Graville
+Le Havre-Graville
+Le Havre-Graville
+Le Légué
 Le Lioran
-Le Luc - Le Cannet
+Le Luc-et-Le Cannet
 Le Mans
-Le Mans Hôpital-Université
-Le Mée-sur-Seine
-Le Méridien La Ferrière
+Le Mans
+Le Mée
+Le Méridien
 Le Merlerault
-Le Meux - La Croix-Saint-Ouen
+Le Meux-la-Croix-St-Ouen
 Le Molay-Littry
-Le Monastier-Pin-Moriès
+Le Monastier
+Le Monastier
+Le Muy
 Le Pallet
 Le Péage-de-Roussillon
 Le Pénity
-Le Perray-en-Yvelines
-Le Plessis Chenet
+Le Perray
 Le Plessis-Belleville
-Le Poirier Université
-Le Pont-de-Beauvoisin
-Le Pont-de-Claix
+Le Plessis-Chenet
+Le Poirier-Université
 Le Pouliguen
+Le Pouzin
 Le Puy-en-Velay
 Le Quesnoy
-Le Raincy - Villemomble - Montfermeil
+Le Raincy-Villemomble-Montfermeil
 Le Rouget
+Le Sablon
 Le Soler
+Le Stade
 Le Stade
 Le Teich
 Le Teil
-Le Theil - La Rouge
+Le Teil
 Le Theil-de-Bretagne
+Le Theil-La Rouge
 Le Thor
 Le Toec
 Le Trayas
-Le Tréport - Mers-les-Bains
-Le Val d'Or
-Le Verdon-sur-Mer
-Le Vernet d'Ariège
-Le Vert de Maisons
-Le Vieux Briollay
+Le Val-d'Or
+Le Valdahon
+Le Valdahon Camp Militaire
+Le Verdon
+Le Vert-de-Maisons
+Le Vieux-Briollay
+Lecelles
+Léchelle (Seine-et-Marne)
+Leffrinckoucke
 Leforest
+Lempdes (Haute-Loire)
+Lens
 Lens
 Lentilly
-Lentilly Charpenay
+Lentilly-Charpenay
 Lépanges
-Lépin-le-Lac - La Bauche
+Lépin-le-Lac-La Bauche
 Lérouville
-Les Abrets - Fitilieu
-Les Arcs - Draguignan
+Les Abrets-Fitilieu
+Les Ancizes-St-Georges
+Les Arcs-Draguignan
 Les Ardoines
-Les Aubrais
+Les Aubrais-Orléans
+Les Aubrais-Orléans
+Les Aubrais-Orléans
 Les Bardys
-Les Bons Pères
+Les Bons-Pères
 Les Bossons
-Les Boullereaux Champigny
+Les Boullereaux-Champigny
 Les Cabannes
 Les Cabrils
 Les Cauquillous
-Les Clairières de Verneuil
+Les Clairières-de-Verneuil
 Les Coquetiers
 Les Deux Jumeaux
 Les Échets
-Les Églisottes-et-Chalaures
+Les Églisottes
 Les Essarts-le-Roi
-Les Eyzies-de-Tayac-Sireuil
+Les Eyzies
 Les Flachères
+Les Fontinettes
 Les Fontinettes
 Les Grésillons
 Les Houches
-Les Islettes
 Les Lacs
-Les Laumes Alésia
+Les Laumes-Alésia
+Les Longevilles-Rochejean
 Les Mais
 Les Martres-de-Veyre
 Les Moussoux
 Les Moutiers-en-Retz
 Les Mureaux
 Les Noues
-Les Ormes
-Les Pavillons-sous-Bois
+Les Ormes-sur-Vienne
 Les Pélerins
 Les Perrières
-Les Praz de Chamonix
-Les Quatre Roues
-Les Quatre-Routes-du-Lot
+Les Praz-de-Chamonix
+Les Quatre-Roues
+Les Quatre-Routes
 Les Ramassiers
 Les Rosiers-sur-Loire
-Les Sables Blancs
+Les Sables-Blancs
 Les Sables-d'Olonne
 Les Salelles
 Les Saules
@@ -1451,353 +1963,476 @@ Les Tines
 Les Trillers
 Les Vallées
 Les Versannes
-Les Yvris Noisy-le-Grand
-Lesparre-Médoc
+Les Yvris-Noisy-le-Grand
+Lescar
+Lesparre
 Lesquin
-Lestelle-de-Saint-Martory
-Leucate La Franqui
+Lesseux-Frapelle
+Lestelle
+Lestrem
+Leucate-la-Franqui
 Leval
 Lexos
+Leyment
 Lezennes
-Lézignan-Corbières
+Lezennes
+Lézignan (Aude)
+Lézignan-la-Cèbe
 Lezoux
-Liancourt - Rantigny
-Liancourt-Saint-Pierre
+Liancourt-Rantigny
+Liancourt-St-Pierre
 Liart
 Libercourt
 Libourne
 Liesle
-Lieusaint - Moissy
+Lieusaint-Moissy
 Liévin
+Ligny
 Ligugé
 Lille CHR
-Lille Europe
-Lille Flandres
-Lille Porte de Douai
+Lille-Champ-de-Mars
+Lille-Délivrance
+Lille-Europe
+Lille-Flandres
+Lille-Porte-de-Douai
+Lille-St-Sauveur
+Lille-Sud
 Lillers
 Limay
 Limeray
 Limersheim
-Limoges Bénédictins
-Limoges Montjovis
+Limeyrat
+Limoges-Bénédictins
+Limoges-Montjovis
+Limoges-Montjovis
+Limoges-Puy-Imbert
 Limoux
-Limoux Flassian
+Limoux-Flassian
 Lingolsheim
+Lisieux
 Lisieux
 Lisle-sur-Tarn
 Lison
 Liverdun
-Livron-sur-Drôme
+Livron
+Livry-Gargan
 Livry-sur-Seine
 Lizy-sur-Ourcq
 Loches
 Logelbach
+Loire
 Loison-sous-Lens
+Loisy-sur-Marne
 Loivre
-Longages - Noé
-Longecourt-en-Plaine
+Lomme
+Lomme (MIN)
+Longages-Noé
+Longecourt
 Longjumeau
 Longpont
 Longpré-les-Corps-Saints
-Longroy - Gamaches
+Longpré-les-Corps-Saints
+Longroy-Gamaches
+Longué
+Longueau
 Longueau
 Longueil-Annel
-Longueil-Sainte-Marie
-Longuerue - Vieux-Manoir
+Longueil-Ste-Marie
+Longuerue-Vieux-Manoir
+Longueville
 Longueville
 Longueville-sur-Scie
 Longuyon
 Longwy
+Longwy
 Lons-le-Saunier
-Loos lez Lille
 Loos-en-Gohelle
+Loos-lez-Lille
+Lorcy
 Loreux
-Lorient Bretagne Sud
-Loriol-sur-Drôme
-Lorraine TGV
+Lorient
+Loriol
+Lorraine-TGV
 Lothiers
+Loudéac
+Loudun
 Louhans
 Louhossoa
 Loulay
 Lourches
 Lourdes
+Loures-Barbazan
 Louroux-de-Bouble
 Louveciennes
+Louverné
 Louvres
 Louvroil
 Lozanne
+Lozanne
 Luant
+Lubersac
 Luc
 Luc-en-Diois
-Luc-la-Primaube
+Luc-Primaube
+Luçay-le-Mâle
 Lucé
+Luché
+Luchon
 Luçon
-Ludon-Médoc
+Ludon
 Ludres
+Lumbres
 Lumes
 Lunas
 Lunel
 Lunel-Viel
 Lunery
 Lunéville
-Lurbe-Saint-Christau
+Lurbe-St-Christau
+Lure
+Lure
 Lure
 Lus-la-Croix-Haute
 Lusignan
 Lussac-les-Châteaux
 Luttenbach-près-Munster
-Lutterbach
+Lutterbach (Haut-Rhin)
+Lutterbach (Haut-Rhin)
+Lutterbach-Tram-Train
 Lutzelbourg
 Lutzelhouse
+Lux
 Luxé
 Luxeuil-les-Bains
 Luzarches
-Luzenac - Garanou
+Luzenac-Garanou
 Luzy
-Lycée Henri Sellier
-Lyon Gorge de Loup
-Lyon Jean Macé
-Lyon Part Dieu
-Lyon Perrache
-Lyon Saint-Exupéry TGV
-Lyon Saint-Paul
-Lyon Vaise
+Lycée-Henri-Sellier
+Lyon-Gorge-de-Loup
+Lyon-Guillotière
+Lyon-Jean-Macé
+Lyon-Part-Dieu
+Lyon-Perrache
+Lyon-Perrache
+Lyon-St-Exupéry-TGV
+Lyon-St-Paul
+Lyon-Vaise
 Macau
 Machecoul
 Machilly
-Mâcon
-Mâcon Loché TGV
+Mâcon-Loché-TGV
+Mâcon-Port-Fluvial
+Mâcon-Ville
 Magalas
 Magenta
 Magland
-Magnac - Vicq
+Magnac-Vicq
 Magnette
-Magneux - Courlandon
-Magny - Blandainville
+Magneux-Courlandon
+Magny-Blandainville
 Maillé
 Mailly-la-Ville
+Mailly-le-Camp
 Maintenon
-Maisons-Alfort - Alfortville
+Maison-Dieu (Yonne)
+Maison-Rouge-en-Brie
+Maisons-Alfort-Alfortville
 Maisons-Laffitte
 Maisse
 Maizières-lès-Metz
 Mâlain
 Malansac
-Malaunay - Le Houlme
+Malaunay-Le Houlme
+Malaunay-Le Houlme
+Malause
 Malesherbes
 Malling
 Mamirolle
 Mandelieu-la-Napoule
-Manosque - Gréoux-les-Bains
-Mantes Station
+Manduel-Redessan
+Manois
+Manosque-Gréoux-les-Bains
 Mantes-la-Jolie
+Mantes-la-Jolie
+Mantes-la-Jolie
+Mantes-Station
+Mantes-Station
+Manthes-Lapeyrouse
 Marbache
 Marcelcave
 Marcheprime
-Marchezais - Broué
+Marchezais-Broué
+Marck
 Mareil-Marly
 Mareil-sur-Mauldre
-Maresquel-Ecquemicourt
+Maresquel
 Mareuil-sur-Ourcq
 Margaux
 Margival
+Margut-Fromy
 Marienthal
+Marignac-St-Béat
 Marignier
 Marigny
-Marle sur Serre
+Marle-sur-Serre
 Marles-en-Brie
-Marlieux - Châtillon
+Marlieux-Châtillon
 Marly-le-Roi
+Marly-les-Valenciennes
 Marmagne
-Marmagne sous Creusot
+Marmagne-sous-Creusot
+Marmagne-sous-Creusot
 Marmande
-Marne-la-Vallée Chessy
+Marne-la-Vallée-Chessy
 Maroeuil
 Marolles-en-Hurepoix
 Maromme
 Marquette
 Marquillies
-Marquise - Rinxent
+Marquise-Rinxent
 Marquixanes
 Marsac
-Marsac-sur-L'isle
-Marseillan Plage
-Marseille Blancarde
-Marseille Saint-Charles
+Marseillan-Plage
+Marseille-Blancarde
+Marseille-Blancarde
 Marseille-en-Beauvaisis
+Marseille-Maritime-Arenc
+Marseille-Maritime-Canet
+Marseille-Prado
+Marseille-St-Charles
+Marseille-St-Charles
 Marssac-sur-Tarn
 Martigné-Ferchaud
+Martigny-les-Bains
+Martigues
+Martigues
+Martigues
 Martigues
 Martres-Tolosane
 Marvejols
 Massérac
 Masseret
-Massiac - Blesle
-Massy - Palaiseau
-Massy - Verrières
+Massiac
 Massy Europe
-Massy TGV
+Massy-Palaiseau
+Massy-Palaiseau
+Massy-TGV
+Massy-Verrières
 Matzenheim
 Maubeuge
+Maubourguet
+Mauco-Benquet
+Maulde-Mortagne
 Maule
 Maurecourt
 Maurois
 Maurs
 Mauves-sur-Loire
-Mauzac-et-Grand-Castang
-Mauzé-sur-le-Mignon
-Mauzens-et-Miremont
+Mauzac
+Mauzé
+Mauzens-Miremont
 Mayet
 Mazamet
+Mazières-Verruyes
 Mazingarbe
 Meaux
 Mehun-sur-Yèvre
 Melun
+Melun
 Menars
 Mende
-Ménil Flin
+Ménil-Flin
 Mennecy
+Mennessis
 Mennessis
 Mennetou-sur-Cher
 Menton
-Menton Garavan
+Menton-Garavan
 Mer
 Mérens-les-Vals
 Mérenvielle
-Méricourt - Ribemont
+Méricourt-Ribemont
 Mériel
-Mérignac Arlac
-Méroux
+Mérignac-Arlac
+Meroux
+Merrey
 Mertzwiller
 Méru
 Mervans
 Merxheim
-Méry-sur-Oise
-Messac - Guipry
+Méry (Val-d'Oise)
+Messac-Guipry
 Messein
-Mesves - Bulcy
+Messempré
+Mesves-Bulcy
 Mesvres
-Metz
-Metz Nord
+Metz-Chambière
+Metz-devant-les-Ponts
+Metz-Marchandises
+Metz-Nord
+Metz-Ville
+Metz-Ville
 Metzeral
+Metzervisse
 Meudon
-Meudon Val Fleury
-Meulan - Hardricourt
+Meudon-Val-Fleury
+Meulan-Hardricourt
 Meung-sur-Loire
 Meurchin
 Meursault
-Meuse TGV
-Meximieux - Pérouges
+Meuse-TGV
+Meximieux-Pérouges
 Meymac
 Meyrargues
 Mézériat
-Mézidon-Canon
-Mignaloux - Nouaillé
+Mézidon
+Mézidon
+Mézin
+Mézy
+Mézy
+Mignaloux-Nouaillé
+Mignaloux-Nouaillé
+Mignères-Gondréville
+Milhac-d'Auberoche
 Milhaud
 Millas
 Millau
 Milly-sur-Thérain
-Miniac-Morvan
+Miniac
 Mionnay
 Miramas
+Miramas
+Miramas
 Miraumont
+Mirebeau-sur-Bèze
+Mirecourt
 Mirecourt
 Miribel
-Mitry - Claye
+Miserey-Salines
+Mitry-Claye
 Modane
 Mohon
 Moirans
-Moirans La Galifette
+Moirans
+Moirans-la-Galifette
 Moissac
+Molinges
 Molsheim
 Mommenheim
+Mommenheim
+Mondoubleau
 Monestier-de-Clermont
-Monéteau - Gurgy
+Monéteau-Gurgy
 Monistrol-d'Allier
 Monnaie
 Monnerville
 Monsempron-Libos
-Mont de Terre
-Mont-Dauphin - Guillestre
+Monsempron-Libos
 Mont-de-Marsan
-Mont-Louis - La Cabanasse
+Mont-de-Marsan
+Mont-de-Terre
+Mont-Dore
+Mont-Louis-La Cabanasse
+Mont-Notre-Dame
+Mont-St-Martin
 Mont-sur-Meurthe
-Montaignac-Saint-Hippolyte
-Montaigu
-Montaigut-le-Blanc
+Mont-sur-Meurthe
+Montabard
+Montaignac-St-Hippolyte
+Montaigu-Vendée
+Montaigut
+Montargis
 Montargis
 Montastruc-la-Conseillère
 Montataire
-Montauban Ville Bourbon
 Montauban-de-Bretagne
+Montauban-Ville-Bourbon
 Montaudran
-Montaut Bétharram
+Montaut-Bétharram
 Montbard
 Montbarrey
 Montbartier
 Montbazon
 Montbéliard
 Montbizot
+Montbré
 Montbrison
 Montceau-les-Mines
 Montchanin
+Montcornet
+Montdauphin-Guillestre
 Montdidier
+Montdidier
+Monte-Carlo-Country-Club
 Montélimar
 Montendre
 Montereau
-Montérolier - Buchy
-Montescourt-Lizerolles
+Montereau
+Montereau
+Montérolier-Buchy
+Montescourt
 Monteux
 Montfavet
-Montferrand - Thoraise
-Montfort-l'Amaury - Méré
+Montferrand-Thoraise
+Montfort-l'Amaury-Mère
 Montfort-le-Gesnois
 Montfort-sur-Meu
-Montgeron - Crosne
-Montgeroult - Courcelles
+Montgeron-Crosne
+Montgeroult-Courcelles
 Monthermé
-Montigny - Beauchamp
+Monthois
+Montierchaume
+Montières
+Montigny-Beauchamp
 Montigny-en-Ostrevent
 Montigny-sur-Loing
 Montivilliers
 Montlaur
-Montlouis-sur-Loire
-Montluçon
-Montluçon Rimard
+Montlouis
+Montluçon-Eau
+Montluçon-Rimard
+Montluçon-Ville
 Montluel
 Montmédy
+Montmélian
 Montmélian
 Montmoreau
 Montmorillon
 Montoir-de-Bretagne
+Montoire-sur-le-Loir
 Montpaon
-Montpellier Saint-Roch
-Montpellier Sud de France
+Montpellier Sud-de-France
+Montpellier-St-Roch
 Montpon-Ménestérol
 Montrabé
-Montréjeau - Gourdan-Polignan
+Montréjeau-Gourdan-Polignan
 Montreuil
-Montreuil sur Mer
+Montreuil-Belfroi
 Montreuil-Bellay
 Montreuil-sur-Ille
+Montreuil-sur-Mer
 Montreuil-sur-Thérain
 Montreux-Vieux
 Montrichard
-Montroc le Planet
+Montroc-le-Planet
 Montrond-les-Bains
-Montry - Condé
+Montrond-les-Bains
+Montrouge-Châtillon
+Montry-Condé
 Monts
-Montsoult - Maffliers
+Montsoult-Maffliers
 Montsûrs
 Montville
 Moosch
 Morannes
 Morbier
 Morcenx
-Moret - Veneux-les-Sablons
+Morcenx
+Moret-Veneux-les-Sablons
+Moret-Veneux-les-Sablons
 Moreuil
 Morez
-Morgny-la-Pommeraye
+Morgny
 Morhange
 Morières-lès-Avignon
 Morlaix
@@ -1810,315 +2445,428 @@ Mothern
 Motteville
 Mouans-Sartoux
 Mouchard
-Moulin Galant
-Moulins sur Allier
-Moulis - Listrac
-Moult - Argences
+Mouchard
+Moulin-Galant
+Moulin-Neuf (Oise)
+Moulins-sur-Allier
+Moulins-sur-Allier
+Moulins-sur-Allier
+Moulins-sur-Yèvre
+Moulis-Listrac
+Moult-Argences
 Mourmelon-le-Petit
 Mouroux
 Moustéru
-Moûtiers - Salins - Brides-les-Bains
-Mouy - Bury
+Moûtiers-Salins-Brides-les-Bains
+Mouy-Bury
+Mouzon
 Moyeuvre-Grande
 Muhlbach-sur-Munster
 Muizon
-Mulhouse
-Mulhouse Dornach
-Mulhouse Musées
-Mulhouse Zu Rhein Tram-Train
+Mulhouse-Dornach
+Mulhouse-Dornach (Tram/Train)
+Mulhouse-Musées (Tram/Train)
+Mulhouse-Nord
+Mulhouse-Ville
+Mulhouse-Ville
 Mullerhof
 Munchhausen
 Mundolsheim
 Munster
-Munster Badischhof
+Munster-Badischhof
 Murat
 Muret
-Musée d'Orsay
+Musée-d'Orsay
 Mussidan
 Mutzig
-Naintré
+Myennes
+Naintré-les-Barres
 Najac
-Namps - Quevauvillers
-Nançois - Tronville
-Nancy
+Namps-Quevauvillers
+Nançois-Tronville
+Nançois-Tronville
+Nancy-Ville
 Nangis
-Nanterre La Folie
-Nanterre Université
+Nanterre-Université
 Nantes
-Nanteuil - Saâcy
+Nantes
+Nantes
 Nanteuil-le-Haudouin
+Nanteuil-Saâcy
 Nantiat
 Narbonne
 Naucelle
 Neau
 Négrondes
-Nemours - Saint-Pierre
+Nemours-St-Pierre
+Nérac
+Nérac
 Nérondes
 Nerpuy
 Nesle
 Neufchâteau
+Neufchâteau
 Neufchâtel-Hardelot
 Neuillé-Pont-Pierre
-Neuilly - Porte Maillot
-Neuilly Porte Maillot RER E
+Neuilly-lès-Dijon
+Neuilly-Porte-Maillot
+Neuilly-St-Front
+Neuilly-sur-Marne
 Neussargues
 Neuves-Maisons
+Neuves-Maisons
 Neuvic
-Neuville Université
+Neuville-aux-Bois
+Neuville-sur-Saône
 Neuville-sur-Sarthe
+Neuville-Université
 Neuvy-Pailloux
+Neuvy-sur-Loire
 Nevers
-Nevers Le Banlay
+Nevers-Le Banlay
 Nexon
-Nézel - Aulnay
-Nice
-Nice Pont Michel
-Nice Riquier
-Nice Saint-Augustin
+Nexon
+Nézel-Aulnay
+Nice-Pont-Michel
+Nice-Riquier
+Nice-St-Augustin
+Nice-St-Roch
+Nice-Ville
 Niederbronn-les-Bains
 Nieppe
 Nieul
 Nîmes
-Nîmes Pont du Gard
+Nîmes-Pont du Gard
+Nîmes-Pont du Gard
 Niolon
 Niort
 Niversac
-Nœux-les-Mines
-Nogent - Le Perreux
-Nogent-l'Artaud - Charly
+Noeux-les-Mines
+Nogent-l'Artaud-Charly
+Nogent-Le Perreux
 Nogent-le-Rotrou
 Nogent-sur-Seine
 Nogent-sur-Vernisson
-Nointel - Mours
+Nointel-Mours
+Noirétable
+Noisy-le-Roi
+Noisy-le-Sec
 Noisy-le-Sec
 Noizay
 Nomain
+Nomain-Ouvignies
 Nonancourt
+Nonant-le-Pin
 Nort-sur-Erdre
 Nortkerque
-Notre-Dame de Briançon
 Notre-Dame-d'Oé
+Notre-Dame-de-Briançon
 Nouan-le-Fuzelier
 Nouvion-sur-Meuse
 Nouzonville
-Novéant-sur-Moselle
+Novéant
 Novillars
-Noyal - Acigné
+Noyal-Acigné
 Noyelles-sur-Mer
-Noyen-sur-Sarthe
+Noyen
 Noyon
-Nozières - Brignon
-Nuits sous Ravières
-Nuits-Saint-Georges
-Nurieux-Volognat
-Nyer
-Obermodern-Zutzendorf
+Nozières-Brignon
+Nuisement
+Nuits-sous-Ravières
+Nuits-sous-Ravières
+Nuits-St-Georges
+Nurieux
+Nyers
+Oberhoffen-Camp-de-Haguenau
+Obermodern
+Obermodern
 Obernai
 Objat
 Oderen
 Oermingen
 Ogeu-les-Bains
+Oiry
 Oissel
-Olette - Canaveilles
-Ollioules - Sanary-sur-Mer
+Oissel
+Olette-Canaveilles-les-Bains
+Ollioules-Sanary-sur-Mer
 Olonne-sur-Mer
-Oloron-Sainte-Marie
+Oloron-Ste-Marie
 Ondres
+Onnaing
 Onville
-Onzain - Chaumont-sur-Loire
+Onville
+Onzain-Chaumont-sur-Loire
 Orange
-Orangis Bois de l'Épine
+Orange
+Orangis-Bois-de-l'Épine
 Orchamps
 Orchies
-Orgerus - Béhoust
+Orgères
+Orgérus-Béhoust
 Orgon
 Origny-en-Thiérache
+Origny-Ste-Benoite
 Orléans
-Orly Ville
+Orly-Ville
 Ormoy-Villers
-Orry-la-Ville - Coye
+Ormoy-Villers
+Ormoy-Villers
+Orry-la-Ville-Coye
 Ors
 Orthez
 Osny
 Osséja
-Ossès - Saint-Martin-d'Arrossa
+Ossès-St-Martin-d'Arrossa
+Ossès-St-Martin-d'Arrossa
 Ossun
 Ostricourt
 Oudon
 Ouges
+Oulchy-Breny
 Oullins
-Ourscamp
+Ourscamps
 Oyonnax
 Ozoir-la-Ferrière
-Pagny-le-Château
 Pagny-sur-Meuse
+Pagny-sur-Meuse
+Pagny-sur-Moselle
 Pagny-sur-Moselle
 Paimpol
 Pamiers
 Pamproux
 Pantin
 Paray-le-Monial
-Parc des Expositions
+Paray-le-Monial
+Paray-le-Monial
+Parc-des-Expositions
 Parempuyre
-Parent - Coudes - Champeix
-Paris Austerlitz
-Paris Bercy Bourgogne - Pays d'Auvergne
-Paris Est
-Paris Gare de Lyon
-Paris Gare du Nord
-Paris Montparnasse
-Paris Saint-Lazare
-Parsac - Gouzon
-Pas des Lanciers
+Parent-Coudes-Champeix
+Paris-Austerlitz
+Paris-Austerlitz-Souterrain
+Paris-Austerlitz-Souterrain
+Paris-Batignolles
+Paris-Bercy
+Paris-Bercy-Rapée
+Paris-Gare-de-Lyon
+Paris-Gare-de-Lyon
+Paris-Gare-de-Lyon-Souterrain
+Paris-Gare-de-Lyon-Souterrain
+Paris-La Villette-Hébert
+Paris-Montparnasse
+Paris-Nord
+Paris-Nord-Souterraine
+Paris-Nord-Souterraine
+Paris-Nord-Surface
+Paris-St-Lazare
+Paris-St-Lazare
+Paris-St-Lazare
+Paris-St-Lazare
+Paris-St-Lazare
+Paris-Tolbiac
+Paris-Vaugirard
+Parsac-Gouzon
+Parthenay
+Parthenay
+Pas-des-Lanciers
+Patay
 Pau
 Pauillac
+Paul-Émile-Victor
 Paulhaguet
+Pavillons-sous-Bois
 Pavilly
 Peille
-Peillon Sainte-Thècle
+Peillon-Ste-Thècle
 Peltre
 Penhoët
-Penne-d'Agenais
+Penne
+Penne
 Penthièvre
-Péreire - Levallois
+Péreire-Levallois
+Péreire-Levallois
 Pérenchies
 Périgueux
-Pernes - Camblain
-Pérols-sur-Vézère
+Périgueux-St-Georges
+Pernes-Camblain
+Pérols
+Péronne-la-Chapelette
 Perpignan
 Perrignier
 Pers
-Persan - Beaumont
+Persan-Beaumont
 Pertuis
 Pessac
-Pessac Alouette
-Petit Jouy - Les Loges
-Petit Vaux
+Petit-Couronne
 Petit-Croix
+Petit-Jouy-Les Loges
+Petit-Quevilly
+Petit-Vaux
 Peyrehorade
-Peyrilhac - Saint-Jouvent
+Peyrilhac-St-Jouvent
 Pezou
 Phalempin
 Pibrac
-Picon Busserine
+Picon-Busserine
 Picquigny
 Pierre-Bénite
 Pierre-Buffière
-Pierrefitte - Stains
-Pierrefitte - Stains T11
+Pierrefite-Stains TT
+Pierrefitte-Stains
 Pierrelatte
 Pierrelaye
 Pierreville
 Pignans
-Pihen-lès-Guînes
+Pihen
 Pins-Justaret
-Plaisir - Grignon
-Plaisir - Les Clayes
+Pithiviers
+Plaintel
+Plaisir-Grignon
+Plaisir-Les Clayes
 Plancoët
 Planès
 Pléchâtel
+Pleine-Fougères
 Plénée-Jugon
 Plerguer
 Plestan
-Pleudihen-sur-Rance
+Pleudihen
 Pleyber-Christ
-Plouaret Trégor
+Plouaret-Trégor
+Plouaret-Trégor
 Plougonver
-Plouharnel - Carnac
+Plouharnel-Carnac
 Plouigneau
 Plounérin
-Plouvara - Plerneuf
+Plouvara-Plerneuf
 Podensac
-Pointe de Grave
+Poinçon
+Pointe-de-Grave
 Poissy
 Poitiers
 Poix-de-Picardie
 Poix-Terron
 Poliénas
 Poligny
+Polisot
 Polliat
 Pomas
+Pomblière-St-Marcel
+Pommevic
 Pompadour
+Pompadour-Maisons-Alfort
 Pompey
 Pons
-Pont Cardinet
-Pont d'Ardres
-Pont de Bois
-Pont de Briques
-Pont de Dore
-Pont de l'Alma
-Pont de la Deûle
-Pont de Lignon
-Pont de Rungis Aéroport d'Orly
-Pont de Sallaumines
-Pont du Garigliano - Hôpital Européen Georges Pompidou
-Pont Petit
 Pont-à-Mousson
 Pont-à-Vendin
+Pont-à-Vendin
+Pont-Audemer
+Pont-Cardinet
+Pont-Cardinet
+Pont-Cardinet
+Pont-Cardinet
 Pont-d'Ain
-Pont-de-Buis
+Pont-d'Ardres
+Pont-de-Beauvoisin
+Pont-de-Bois
+Pont-de-Briques
+Pont-de-Buis Lès Quimerc'h
+Pont-de-Claix
+Pont-de-Dore
+Pont-de-l'Alma
 Pont-de-l'Arche
+Pont-de-l'Arche
+Pont-de-la-Deûle
+Pont-de-Lignon
+Pont-de-Roide
+Pont-de-Rungis-Aéroport-d'Orly
+Pont-de-Rungis-Aéroport-d'Orly
+Pont-de-Sallaumines
 Pont-de-Veyle
 Pont-du-Casse
 Pont-du-Château
+Pont-du-Château (FRET)
+Pont-du-Garigliano-Hôpital-Georges-Pompidou
+Pont-Hébert
 Pont-l'Évêque
 Pont-Melvez
+Pont-Petit
 Pont-Remy
-Pont-Saint-Esprit
-Pont-Saint-Vincent
-Pont-Sainte-Maxence
+Pont-St-Vincent
+Pont-Ste-Maxence
 Pont-sur-Yonne
+Pontailler-sur-Saône
 Pontanevaux
 Pontarlier
 Pontchaillou
-Pontcharra - Saint-Forgeux
-Pontcharra sur Bréda
+Pontcharra-St-Forgeux
+Pontcharra-sur-Breda-Allevard
 Pontchâteau
+Pontfaverger
+Pontgibaud
 Pontgouin
-Ponthierry - Pringy
+Ponthierry-Pringy
+Pontivy
+Pontivy
 Pontmort
 Pontoise
-Pontorson - Mont-Saint-Michel
+Pontoise
+Pontorson-Mont-St-Michel
 Pontrieux
-Pontrieux Halte
+Pontrieux-Halte
 Porchefontaine
-Pornic
 Pornichet
-Port Boulet
+Port-Boulet
 Port-Brillet
+Port-d'Atelier-Amance
+Port-d'Atelier-Amance
 Port-de-Bouc
 Port-de-Piles
+Port-Édouard-Herriot
+Port-Fluvial-de-Chalon-sur-Saône
 Port-la-Nouvelle
-Port-Saint-Père - Saint-Mars
-Port-Sainte-Marie
+Port-Sec-de-Pacy
+Port-St-Louis-du-Rhône
+Port-St-Père-St-Mars
+Port-Ste-Marie
+Port-Ste-Marie
 Port-Vendres
-Porte de Clichy
+Porte-de-Clichy
 Porté-Puymorens
-Portet Saint-Simon
+Portes
+Portet-St-Simon
 Portets
-Pougny - Chancy
+Pougny-Chancy
 Pougues-les-Eaux
 Pouilly-sur-Loire
+Poussay
 Pouxeux
 Pouzauges
-Prades - Molitg-les-Bains
+Prades-Molitg-les-Bains
+Praye-sous-Vaudémont
+Pré-en-Pail
 Précy-sur-Oise
 Preignac
-Presles Courcelles
+Prémery
+Presles-Courcelles
 Prin-Deyrançon
 Pringy
 Prissé-la-Charrière
-Prouvy - Thiant
+Prouvy-Thiant
+Prouvy-Thiant
 Provenchères-sur-Fave
 Provins
 Prunay
-Pruniers-en-Sologne
+Pruniers
 Puget-Ville
-Pulligny - Autrey
+Pulligny-Autrey
 Puteaux
+Puy-Guillaume
 Puybrun
 Puyoô
 Quédillac
+Quéménéven
+Quesnoy-le-Montant
 Quesnoy-sur-Deûle
 Questembert
 Quiberon
@@ -2126,575 +2874,784 @@ Quillan
 Quimper
 Quimperlé
 Quincieux
-Rabastens - Coufouleux
+Quintin
+Rabastens-Couffouleux
 Raedersheim
+Rai-Aube
 Raismes
 Rambouillet
 Ranchot
-Rang-du-Fliers - Verton - Berck
+Rang-du-Fliers-Verton
 Ranguin
 Ranspach
 Raon-l'Étape
 Rassuen
-Razac-sur-l'Isle
-Réaumont - Saint-Cassien
+Raves-Ban-de-Laveline
+Razac
+Réaumont-St-Cassien
 Recquignies
 Réding
 Redon
 Régny
-Reichshoffen
-Reignac-sur-Indre
-Reignier-Ésery
+Réhon
+Reichshoffen-Usines
+Reichshoffen-Ville
+Reichstett
+Reignac
+Reignier
 Reims
-Reims Maison Blanche
+Reims-Maison-Blanche
+Reims-St-Léonard
 Rémelfing
 Rémilly
+Rémilly
 Remiremont
-Remise à Jorelle
-Remy
+Remise-à-Jorelle
+Remoulins-Pont-du-Gard
+Rémy
 Renescure
 Rennes
 Rethel
+Rethondes
 Retiers
 Retournac
 Reuilly
-Revigny-sur-Ornain
+Revel-Sorèze
+Revigny
 Revin
-Rezé Pont Rousseau
-Ria-Sirach
-Ribécourt-Dreslincourt
+Rezé-Pont-Rousseau
+Ria
+Ribécourt
+Richwiller
 Riedseltz
-Rieux - Angicourt
+Rieux-Angicourt
 Rilly-la-Montagne
-Riom - Châtel-Guyon
+Rimaucourt
+Riom-Châtel-Guyon
+Riom-Châtel-Guyon
 Ris-Orangis
 Rivarennes
 Rive-de-Gier
 Rives
 Rivesaltes
 Rixheim
+Rixheim
 Roanne
-Rocamadour - Padirac
+Rocamadour-Padirac
 Roche-lez-Beaupré
 Rochefort
 Rochy-Condé
+Rochy-Condé
+Rodez
 Rodez
 Roeschwoog
-Rœux
+Roeux
 Rognac
+Rognac
+Roissy-Aéroport-Charles-de-Gaulle 1
+Roissy-Aéroport-Charles-de-Gaulle 2-TGV (RER)
 Roissy-en-Brie
+Rolampont
 Rolleville
 Romanèche-Thorins
-Romans - Bourg-de-Péage
-Rombas - Clouange
+Romans-Bourg-de-Péage
+Rombas-Clouange
 Romilly-la-Puthenaye
 Romilly-sur-Seine
-Romorantin-Lanthenay
+Romorantin (Voie étroite)
 Ronchamp
 Ronchin
+Roncq
 Roppenheim
-Roquebrune-Cap-Martin
-Roquesérière - Buzet
+Roppenheim
+Roquefort (Landes)
+Roquesérière
 Rosa Parks
 Roscoff
 Rosheim
+Rosières
 Rosières-aux-Salines
-Rosières-en-Santerre
-Rosny Bois Perrier
+Rosières-aux-Salines
+Rosny-Bois-Perrier
 Rosny-sous-Bois
 Rosny-sur-Seine
 Rosporden
 Rosult
 Rothau
 Roubaix
-Rouen Rive Droite
+Roubaix-Wattrelos
+Roubaix-Wattrelos
+Rouen-Martainville
+Rouen-Orléans
+Rouen-Rive-Droite
+Rouessé-Vassé
 Rouffach
-Rougemont Chanteloup
+Rougebarre
+Rougemont-Chanteloup
 Rouillé
+Roumazières-Loubert
+Roumazières-Loubert
 Rountzenheim
-Route de Launaguet
+Route-de-Launaguet
+Rouxmesnil
+Rouxmesnil
 Royan
-Royat - Chamalières
+Royat-Chamalières
+Roye (Somme)
 Rozières-sur-Mouzon
 Rue
+Rueil-Malmaison
+Ruelle
 Ruffec
-Ruffey-lès-Echirey
+Ruffey
 Rully
 Rumilly
 Ruminghem
-Rungis La Fraternelle
-Russ Hersbach
+Rungis (MIN)
+Rungis-la-Fraternelle
+Russ-Hersbach
 Saales
 Sablé-sur-Sarthe
 Saillagouse
 Saillans
-Saillat - Chassenon
+Saillat-Chassenon
 Sain-Bel
-Saincaize-Meauce
+Saincaize
+Saincaize
+Saincaize
 Sains-du-Nord
-Saint-Agnan
-Saint-Agne
-Saint-Aignan - Noyers
-Saint-Aigulin - La Roche-Chalais
-Saint-Amand-les-Eaux
-Saint-Amand-Longpré
-Saint-Amand-Montrond - Orval
-Saint-Amarin
-Saint-Amour
-Saint-André-de-Corcy
-Saint-André-de-Cubzac
-Saint-André-le-Gaz
-Saint-André-lez-Lille
-Saint-Antoine
-Saint-Antoine-de-Breuilh
-Saint-Antoine-du-Rocher
-Saint-Armel
-Saint-Astier
-Saint-Aubin - Saint-Luperce
-Saint-Aubin-sur-Scie
-Saint-Aulaire
-Saint-Aunès
-Saint-Avold
-Saint-Avre - La Chambre
-Saint-Ay
-Saint-Béron - La Bridoire
-Saint-Blaise-la-Roche Poutay
-Saint-Bonnet-de-Rochefort
-Saint-Brice-sur-Vienne
-Saint-Brieuc
-Saint-Césaire
-Saint-Chamas
-Saint-Chamond
-Saint-Chély-d'Apcher
-Saint-Chéron
-Saint-Christophe-Vallon
-Saint-Clair - Les Roches
-Saint-Claude
-Saint-Clément - Laronxe
-Saint-Cloud
-Saint-Cyprien
-Saint-Cyprien Arènes
-Saint-Cyr Les Lecques - La Cadière
-Saint-Cyr-en-Val La Source
-Saint-Cyr-l'École
-Saint-Dalmas de Tende
-Saint-Denis
-Saint-Denis-de-Pile
-Saint-Denis-des-Murs
-Saint-Denis-lès-Martel
-Saint-Dié-des-Vosges
-Saint-Dizier
-Saint-Égrève Saint-Robert
-Saint-Émilion
-Saint-Erme-Outre-et-Ramecourt
-Saint-Étienne Bellevue
-Saint-Étienne Carnot
-Saint-Étienne Châteaucreux
-Saint-Étienne La Terrasse
-Saint-Étienne Le Clapier
-Saint-Étienne-de-Montluc
-Saint-Étienne-du-Rouvray
-Saint-Fargeau-Ponthierry
-Saint-Féliu-d'Avall
-Saint-Florent-sur-Cher
-Saint-Florentin - Vergigny
-Saint-Flour - Chaudes-Aigues
-Saint-Fons
-Saint-Gaudens
-Saint-Geniès-de-Malgoirès
-Saint-Genouph
-Saint-Georges-d'Aurac
-Saint-Georges-de-Commiers
-Saint-Georges-de-Luzençon
-Saint-Georges-de-Reneins
-Saint-Geours-de-Maremne
-Saint-Germain-au-Mont-d'Or
-Saint-Germain-des-Fossés
-Saint-Germain-du-Puy
-Saint-Germain-en-Laye Bel-Air - Fourqueux
-Saint-Germain-les-Belles
-Saint-Germain-sur-Ille
-Saint-Gervais-les-Bains Le Fayet
-Saint-Gildas-des-Bois
-Saint-Gilles Lycée Haut-Rhin
-Saint-Gilles-Croix-de-Vie
-Saint-Gratien
-Saint-Hilaire - Brizambourg
-Saint-Hilaire - Saint-Nazaire
-Saint-Hilaire-de-Chaléons
-Saint-Hilaire-de-Riez
-Saint-Hilaire-sur-Helpe
-Saint-Jacques-de-la-Lande
-Saint-Jean-d'Angély
-Saint-Jean-de-Losne
-Saint-Jean-de-Luz - Ciboure
-Saint-Jean-de-Maurienne Arvan
-Saint-Jean-de-Verges
-Saint-Jean-Pied-de-Port
-Saint-Jodard
-Saint-Jory
-Saint-Joseph le Castellas
-Saint-Julien - Clénay
-Saint-Julien-du-Sault
-Saint-Julien-en-Genevois
-Saint-Junien
-Saint-Just-en-Chaussée
-Saint-Laurent - Gainneville
-Saint-Laurent-d'Aigouze
-Saint-Laurent-de-la-Prée - Fouras
-Saint-Laurent-du-Var
-Saint-Laurent-en-Grandvaux
-Saint-Léger-sur-Dheune
-Saint-Léon-sur-l'Isle
-Saint-Léonard-de-Noblat
-Saint-Leu-d'Esserent
-Saint-Leu-la-Forêt
-Saint-Lô
-Saint-Lothain
-Saint-Loubès
-Saint-Louis
-Saint-Louis La Chaussée
-Saint-Macaire
-Saint-Maixent-L'École
-Saint-Malo
-Saint-Mammès
-Saint-Marcel
-Saint-Marcel en Dombes
-Saint-Marcellin
-Saint-Mariens - Saint-Yzan
-Saint-Mars-la-Brière
-Saint-Martin d'Étampes
-Saint-Martin du Touch
-Saint-Martin-d'Oney
-Saint-Martin-de-Crau
-Saint-Martin-du-Mont
-Saint-Martin-le-Beau
-Saint-Martory
-Saint-Mathurin-sur-Loire
-Saint-Maurice-de-Beynost
-Saint-Médard-d'Eyrans
-Saint-Médard-de-Guizières
-Saint-Médard-sur-Ille
-Saint-Michel - Valloire
-Saint-Michel Notre-Dame
-Saint-Michel-sur-Meurthe
-Saint-Michel-sur-Orge
-Saint-Nabord
-Saint-Nazaire
-Saint-Nom-la-Bretèche Forêt de Marly
-Saint-Nom-la-Bretèche Forêt de Marly T13
-Saint-Omer
-Saint-Omer-en-Chaussée
-Saint-Ouen
-Saint-Ouen-l'Aumône
-Saint-Ouen-l'Aumône Liesse
-Saint-Ouen-l'Aumône Quartier de l'Église
-Saint-Paterne-Racan
-Saint-Patrice
-Saint-Paul-de-Varax
-Saint-Pé-de-Bigorre
-Saint-Péray
-Saint-Piat
-Saint-Pierre-d'Albigny
-Saint-Pierre-d'Aurillac
-Saint-Pierre-de-Chignac
-Saint-Pierre-des-Corps
-Saint-Pierre-en-Faucigny
-Saint-Pierre-la-Cour
-Saint-Pierre-le-Moûtier
-Saint-Pierre-Quiberon
-Saint-Pierre-sur-Dives
-Saint-Pol-de-Léon
-Saint-Pol-sur-Ternoise
-Saint-Priest
-Saint-Priest-Taurion
-Saint-Quentin
-Saint-Quentin en Yvelines - Montigny-le-Bretonneux
-Saint-Quentin-Fallavier
-Saint-Rambert-d'Albon
-Saint-Rambert-en-Bugey
-Saint-Raphaël Valescure
-Saint-Remy-en-l'Eau
-Saint-Roch
-Saint-Romain-de-Popey
-Saint-Romain-le-Puy
-Saint-Rome-de-Cernon
-Saint-Saturnin-lès-Avignon
-Saint-Savinien
-Saint-Saviol
-Saint-Sébastien
-Saint-Sébastien Frêne Rond
-Saint-Sébastien Pas Enchantés
-Saint-Senoux - Pléchâtel
-Saint-Seurin-sur-l'Isle
-Saint-Sever
-Saint-Sulpice - Auteuil
-Saint-Sulpice - Izon
-Saint-Sulpice (Tarn)
-Saint-Sulpice-Laurière
-Saint-Symphorien-de-Marmagne
-Saint-Thégonnec
-Saint-Vallier sur Rhône
-Saint-Victor - Thizy
-Saint-Victor-l'Abbaye
-Saint-Victurnien
-Saint-Vincent le Château
-Saint-Vincent-de-Tyrosse
-Saint-Vit
-Saint-Yrieix-la-Perche
-Sainte-Anne
-Sainte-Bazeille
-Sainte-Cécile-d'Andorge
-Sainte-Colombe
-Sainte-Colombe Septveilles
-Sainte-Eulalie - Carbon-Blanc
-Sainte-Foy-la-Grande
-Sainte-Gauburge
-Sainte-Geneviève-des-Bois
-Sainte-Léocadie
-Sainte-Lizaigne
-Sainte-Marguerite
-Sainte-Marthe en Provence
-Sainte-Maure - Noyant
-Sainte-Pazanne
 Saintes
+Saintes
+Salaise
 Salbris
-Sallanches - Combloux - Megève
+Saléchan-Siradan
+Saleux
+Salindres
+Sallanches-Combloux-Megève
 Sallaumines
+Sallèles-d'Aude
 Salles-Courbatiès
 Salomé
-Salon-de-Provence
-Salses-le-Château
+Salon
+Salses
 Sannois
 Sanry-sur-Nied
-Santenay les Bains
+Santenay-les-Bains
 Santes
-Santeuil - Le Perchay
+Santeuil-Le Perchay
 Saône
-Sarcelles - Saint-Brice
-Sarlat-la-Canéda
-Sarliève - Cournon
+Sarcelles-St-Brice
+Sarlat
+Sarliève-Cournon
+Sarralbe
+Sarralbe
 Sarralbe
 Sarrance
 Sarre-Union
 Sarrebourg
+Sarrebourg
+Sarrebourg
+Sarreguemines
+Sarreguemines
 Sarreguemines
 Sarreinsming
 Sartrouville
-Sathonay - Rillieux
-Saubusse
+Sathonay-Rillieux
+Sathonay-Rillieux
+Sathonay-Rillieux
+Saubusse-les-Bains
 Saujon
+Saulieu
+Saulnes
 Saulon
 Saulxures
+Saumur
 Saumur
 Sausset-les-Pins
 Sauto
 Sauveterre-la-Lémance
 Savenay
-Savennières - Béhuard
+Savenay
+Savennières-Béhuard
 Saverdun
 Saverne
-Savigny-le-Temple - Nandy
+Savigny-le-Temple-Nandy
 Savigny-sur-Orge
 Savonnières
 Savy-Berlette
-Sceaux - Boëssé
+Sceaux-Boësse
 Scherwiller
-Schirmeck - La Broque
+Schiltigheim
+Schirmeck-La Broque
 Schopperten
+Schweighouse-sur-Moder
 Schweighouse-sur-Moder
 Schwindratzheim
 Seclin
 Sedan
 Sées
 Sélestat
-Selles-Saint-Denis
+Sélestat
+Sélestat
+Selles-St-Denis
 Selles-sur-Cher
+Selommes
 Seltz
+Semur-en-Auxois
 Sénas
 Sennecey-le-Grand
 Senozan
 Sens
+Séon-St-Henry
 Sept-Saulx
-Septèmes-les-Vallons
+Septèmes
 Serdinya
-Sérézin-du-Rhône
+Sérézin
 Sérifontaine
 Sermaise
-Sermizelles - Vézelay
+Sermizelles-Vézelay
+Serqueux
 Serqueux
 Serquigny
+Serquigny
 Serres
-Servas - Lent
-Servon-sur-Vilaine
+Servas-Lent
+Servon
 Servoz
 Sessenheim
+Sète
 Sète
 Seugy
 Seurre
 Sévérac
-Sévérac-d'Aveyron
-Sevran - Livry
-Sevran Beaudottes
-Sèvres - Ville-d'Avray
-Sèvres Rive Gauche
-Seyssel - Corbonod
+Sévérac-le-Château
+Sévérac-le-Château
+Sevran-Beaudottes
+Sevran-Livry
+Sèvres-Rive-Gauche
+Sèvres-Ville-d'Avray
+Seyssel-Corbonod
+Sézanne
+Sézanne
+Sibelin
 Sierck-les-Bains
 Sierentz
 Sillé-le-Guillaume
+Sillé-le-Guillaume
+Sillery
 Simandre-sur-Suran
-Simiane-Collongue
+Simiane
 Sin-le-Noble
+Siorac-en-Périgord
+Siorac-en-Périgord
 Siorac-en-Périgord
 Sisteron
 Soissons
-Solignac - Le Vigen
+Solférino
+Solignac-Le Vigen
 Solliès-Pont
 Somain
+Somain
+Somain
 Sommery
-Sorgues - Châteauneuf-du-Pape
+Sommesous
+Sorcy
+Sorgues-Châteauneuf-du-Pape
+Sorgues-Châteauneuf-du-Pape
 Sospel
-Sotteville-lès-Rouen
+Sotteville
 Souillac
 Soulac-sur-Mer
 Soultz-sous-Forêts
-Souppes - Château-Landon
-Sous le Bois
-Stade de France Saint-Denis
+Souppes-Château-Landon
+Sous-le-Bois
+Sous-le-Bois
+Souvigny
+St-Agnan
+St-Agne
+St-Aignan-Noyers
+St-Aigulin-La Roche-Chalais
+St-Amand-de-Vendôme
+St-Amand-les-Eaux
+St-Amand-les-Eaux
+St-Amand-les-Eaux
+St-Amand-Montrond-Orval
+St-Amarin
+St-Amour
+St-André
+St-André
+St-André-de-Corcy
+St-André-de-Cubzac
+St-André-de-l'Eure
+St-André-le-Gaz
+St-Antoine (MR)
+St-Antoine-de-Breuilh
+St-Antoine-du-Rocher
+St-Armel
+St-Astier
+St-Aubin (Jura)
+St-Aubin-du-Vieil-Évreux
+St-Aubin-du-Vieil-Évreux
+St-Aubin-St-Luperce
+St-Aubin-sur-Scie
+St-Aulaire
+St-Aunès
+St-Avold
+St-Avre-la-Chambre
+St-Ay
+St-Béron-La Bridoire
+St-Blaise-la-Roche-Poutay
+St-Bonnet-de-Rochefort
+St-Brice-Courcelles
+St-Brice-sur-Vienne
+St-Brieuc
+St-Brieuc
+St-Brieuc
+St-Cergues-les-Voirons
+St-Césaire
+St-Chamas
+St-Chamond
+St-Chély-d'Apcher
+St-Chéron
+St-Christophe
+St-Clair-les-Roches
+St-Claude
+St-Clément-Laronxe
+St-Cloud
+St-Cloud
+St-Cyprien-Arènes
+St-Cyprien-en-Dordogne
+St-Cyr
+St-Cyr
+St-Cyr-en-Val-La Source
+St-Cyr-les-Lècques-La Cadière
+St-Dalmas-de-Tende
+St-Denis
+St-Denis-Catus
+St-Denis-de-Pile
+St-Denis-des-Murs
+St-Denis-Jargeau
+St-Denis-près-Martel
+St-Dié-des-Vosges
+St-Dié-des-Vosges
+St-Dié-des-Vosges
+St-Dizier
+St-Dizier
+St-Égrève-St-Robert
+St-Éloy
+St-Émilion
+St-Erme
+St-Étienne-Bellevue
+St-Étienne-Carnot
+St-Étienne-Châteaucreux
+St-Étienne-de-Montluc
+St-Étienne-du-Rouvray
+St-Étienne-La Terrasse
+St-Étienne-Le Clapier
+St-Étienne-Pont-de-l'Âne
+St-Fargeau
+St-Féliu-d'Avall
+St-Florent-sur-Cher
+St-Florentin-Vergigny
+St-Florentin-Vergigny
+St-Florentin-Vergigny
+St-Flour-Chaudes-Aigues
+St-Fons
+St-Gaudens
+St-Geniès-de-Malgoirès
+St-Genouph
+St-Georges-d'Aurac
+St-Georges-de-Commiers
+St-Georges-de-Luzençon
+St-Georges-de-Reneins
+St-Geours
+St-Germain-au-Mont-d'Or
+St-Germain-des-Fossés
+St-Germain-du-Puy
+St-Germain-du-Puy
+St-Germain-en-Laye-Bel-Air-Fourqueux
+St-Germain-en-Laye-Grande-Ceinture
+St-Germain-les-Belles
+St-Germain-St-Rémy
+St-Germain-sur-Ille
+St-Germain-sur-Meuse
+St-Gervais-les-Bains-Le Fayet
+St-Gervais-les-Bains-Le Fayet
+St-Gildas-des-Bois
+St-Gilles
+St-Gilles-Croix-de-Vie
+St-Gilles-du-Gard
+St-Gratien
+St-Hilaire
+St-Hilaire-au-Temple
+St-Hilaire-au-Temple
+St-Hilaire-Brizambourg
+St-Hilaire-de-Chaléons
+St-Hilaire-de-Chaléons
+St-Hilaire-de-Chaléons
+St-Hilaire-de-Riez
+St-Hilaire-St-Nazaire
+St-Jacques-de-la-Lande
+St-Jean-d'Angély
+St-Jean-de-Losne
+St-Jean-de-Losne
+St-Jean-de-Luz-Ciboure
+St-Jean-de-Maurienne-Arvan
+St-Jean-de-Sauves
+St-Jean-de-Verges
+St-Jean-Pied-de-Port
+St-Jean-Pla-de-Corts
+St-Jodard
+St-Jory
+St-Joseph-Le Castellas
+St-Juéry
+St-Julien-Clénay
+St-Julien-du-Sault
+St-Julien-Écuisses
+St-Julien-en-Genevois
+St-Julien-Montricher
+St-Junien
+St-Just-en-Chaussée
+St-Laurent (Jura)
+St-Laurent-d'Aigouze
+St-Laurent-de-la-Prée
+St-Laurent-du-Var
+St-Laurent-Gainneville
+St-Léger-sur-Dheune
+St-Léon-sur-l'Isle
+St-Léonard
+St-Léonard
+St-Léonard-de-Noblat
+St-Leu-d'Esserent
+St-Leu-la-Forêt
+St-Lô
+St-Lô
+St-Lothain
+St-Loubès
+St-Louis
+St-Louis
+St-Louis-la-Chaussée
+St-Louis-la-Chaussée
+St-Louis-les-Aygalades
+St-Macaire
+St-Maixent-l'Ecole
+St-Malo
+St-Mammès
+St-Marcel
+St-Marcel-en-Dombes
+St-Marcellin
+St-Mariens-St-Yzan
+St-Mars-la-Brière
+St-Martin-d'Étampes
+St-Martin-d'Oney
+St-Martin-de-Crau
+St-Martin-du-Mont
+St-Martin-du-Touch
+St-Martin-du-Vivier
+St-Martin-le-Beau
+St-Martory
+St-Masmes
+St-Mathurin
+St-Maur-sur-Indre
+St-Maurice-de-Beynost
+St-Médard-d'Eyrans
+St-Médard-de-Guizières
+St-Médard-sur-Ille
+St-Méen
+St-Mesmin
+St-Michel-Notre-Dame
+St-Michel-sur-Charente
+St-Michel-sur-Meurthe
+St-Michel-sur-Orge
+St-Michel-Valloire
+St-Nabord
+St-Nazaire
+St-Nazaire
+St-Nom-la-Bretêche-Forêt-de-Marly
+St-Nom-la-Bretêche-Forêt-de-Marly
+St-Omer
+St-Omer-en-Chaussée
+St-Ouen
+St-Ouen-du-Breuil
+St-Ouen-l'Aumône
+St-Ouen-l'Aumône-Église
+St-Ouen-l'Aumône-Liesse
+St-Ours-les-Roches
+St-Paterne
+St-Patrice
+St-Paul-de-Fenouillet
+St-Paul-de-Varax
+St-Pé-de-Bigorre
+St-Péray
+St-Piat
+St-Pierre-d'Albigny
+St-Pierre-d'Aurillac
+St-Pierre-de-Chignac
+St-Pierre-des-Corps
+St-Pierre-du-Vauvray
+St-Pierre-du-Vauvray
+St-Pierre-en-Faucigny
+St-Pierre-la-Cour
+St-Pierre-le-Moûtier
+St-Pierre-le-Viger-Fontaine-le-Dun
+St-Pierre-lès-Elbeuf
+St-Pierre-Quiberon
+St-Pierre-sur-Dives
+St-Pol-de-Léon
+St-Pol-sur-Ternoise
+St-Pourçain-sur-Sioule
+St-Priest
+St-Priest-Taurion
+St-Quentin
+St-Quentin-en-Yvelines
+St-Quentin-en-Yvelines
+St-Quentin-Fallavier
+St-Rambert-d'Albon
+St-Rambert-d'Albon
+St-Rambert-d'Albon
+St-Rambert-en-Bugey
+St-Raphaël-Valescure
+St-Remy-en-l'Eau
+St-Roch (Somme)
+St-Roch (Somme)
+St-Romain-de-Popey
+St-Romain-le-Puy
+St-Rome-de-Cernon
+St-Saturnin-d'Avignon
+St-Sauveur-Châteauneuf
+St-Savinien-sur-Charente
+St-Saviol
+St-Sébastien
+St-Sébastien-Frêne-Rond
+St-Sébastien-Pas-Enchantés
+St-Senoux-Pléchâtel
+St-Seurin-sur-l'Isle
+St-Sever
+St-Sulpice
+St-Sulpice
+St-Sulpice-Auteuil
+St-Sulpice-Izon
+St-Sulpice-Laurière
+St-Symphorien-de-Marmagne
+St-Thégonnec
+St-Valéry-en-Caux
+St-Vallier-sur-Rhône
+St-Varent
+St-Victor
+St-Victor-Thizy
+St-Victurnien
+St-Vincent-de-Tyrosse
+St-Vincent-le-Château
+St-Vit
+St-Yorre
+St-Yrieix
+Stade-de-France-St-Denis
 Staffelfelden
-Stains La Cerisaie T11
+Stains
+Stains-Cerisaie TT
+Ste-Anne
+Ste-Bazeille
+Ste-Cécile-d'Andorge
+Ste-Christie
+Ste-Colombe
+Ste-Colombe-les-Vienne-St-Romain-en-Gal
+Ste-Colombe-Septveilles
+Ste-Colombe-sur-Seine
+Ste-Colombe-sur-Seine
+Ste-Eulalie-Carbon-Blanc
+Ste-Foy-la-Grande
+Ste-Gauburge
+Ste-Geneviève-des-Bois
+Ste-Léocadie
+Ste-Lizaigne
+Ste-Marguerite
+Ste-Marthe-en-Provence
+Ste-Maure-Noyant
+Ste-Pazanne
+Ste-Pazanne
 Steenbecque
 Steenwerck
 Steinbourg
+Stenay
 Stephansfeld
-Strasbourg
-Strasbourg Roethig
+Strasbourg-Cronenbourg
+Strasbourg-Cronenbourg
+Strasbourg-Neudorf
+Strasbourg-Port-du-Rhin
+Strasbourg-Roethig
+Strasbourg-Ville
+Strasbourg-Ville
+Strasbourg-Ville
+Strasbourg-Ville
 Strazeele
 Sucé-sur-Erdre
+Sucy-Bonneuil
+Sucy-Bonneuil
 Suèvres
+Suippes
+Sully-sur-Loire
 Surdon
-Suresnes Mont Valérien
+Surdon
+Suresnes-Mont-Valérien
 Surgères
-Survilliers - Fosses
+Survilliers-Fosses
 Sury-le-Comtal
-Tacoignières - Richebourg
+Tacoignières-Richebourg
 Taconnaz
-Tain-l'Hermitage - Tournon
+Tagolsheim
+Taillebourg
+Tain-l'Hermitage-Tournon
+Tamnay-Châtillon
+Tamnay-Châtillon
+Tamnay-Châtillon
 Tantonville
 Tanus
 Tarare
 Tarascon
+Tarascon
+Tarascon
 Tarascon-sur-Ariège
 Tarbes
 Tassin
+Tassin
+Tavaux-Solvay
 Taverny
 Teillé
 Templeuve
-Tenay - Hauteville
+Tenay-Hauteville
 Tende
 Tergnier
-Terrasson-Lavilledieu
+Tergnier
+Terrasson
+Terrenoire
 Tessonnières
-Teting-sur-Nied
+Teting
+TGV Haute-Picardie
 Thann
-Thann Centre
-Thann Saint-Jacques
+Thann-Centre
+Thann-St-Jacques
 Thaon
+Thédirac-Peyrilles
 Theillay
 Thenissey
 Thenon
 Théoule-sur-Mer
 Thésée
 Thézy-Glimont
-Thiaville-sur-Meurthe
+Thiaville
 Thiennes
 Thiers
-Thieux - Nantouillet
+Thieux-Nantouillet
 Thionville
 Thiviers
+Thiviers
+Thoiry
 Thomery
 Thonon-les-Bains
-Thouaré-sur-Loire
+Thouaré
 Thouars
 Thourotte
-Thuès Carença
-Thuès les Bains
-Thun le Paradis
-Tieffenbach - Struth
+Thuès
+Thuès-les-Bains
+Thun-le-Paradis
+Tieffenbach-Struth
 Tiercé
+Tiercelet-Villers-la-Montagne
+Tillières
 Tincques
 Tonnay-Charente
 Tonneins
 Tonnerre
-Torfou-Sèvremoine
-Torpes - Boussières
+Torfou
+Torpes-Boussières
 Touët-de-l'Escarène
 Toul
+Toul
+Toul
 Toulon
-Toulon Sainte-Musse
-Toulouse Matabiau
+Toulouse-Matabiau
 Tourcoing
-Tournan-en-Brie
+Tournan
 Tournay
-Tournemire - Roquefort
+Tournemire-Roquefort
+Tournemire-Roquefort
+Tournes
+Tournes
+Tournon-St-Martin
 Tournus
 Tours
-Tourville-la-Rivière
+Tours
+Tours
+Tourville
 Toury
-Tracy - Sancerre
-Traou Nez
+Tracy-Sancerre
+Traou-Nez
 Trappes
-Trégonneau - Squiffiec
+Trappes-Marchandises
+Trèbes
+Trégonneau-Squiffiec
 Trélazé
+Trémentines
 Trémolat
+Trentels-Ladignac
+Tressin
 Tricot
 Trie-Château
 Triel-sur-Seine
 Trilport
-Trith-Saint-Léger
-Trois Chênes
+Trith-St-Léger
+Trogues
+Trois-Chênes
+Trois-Puits
 Tronsanges
-Trouville - Deauville
+Trouville-Deauville
+Trouville-Deauville
+Troyes
+Troyes
 Troyes
 Tulle
-Tullins Fures
+Tullins-Fures
 Turckheim
 Turenne
 Uchaud
 Uckange
-Ur - Les Escaldes
-Urçay - La Perche
+Ugine
+Ur-les-Escaldes
+Urçay
 Urmatt
 Urt
 Us
 Ussel
-Ustaritz Jatxou
+Ustaritz
+Uzel
 Uzerche
 Vaas
-Vaires - Torcy
-Val d'Argenteuil
-Val de Fontenay
+Vaires-Torcy
+Val-d'Argenteuil
+Val-de-Fontenay
 Val-de-Reuil
 Val-de-Vesle
-Valdahon
-Valdahon Camp Militaire
 Valençay
 Valence
-Valence d'Agen
-Valence TGV Rhône-Alpes Sud
+Valence-d'Agen
+Valence-TGV
 Valenciennes
-Valergues - Lansargues
+Valenciennes
+Valenciennes
+Valenton
+Valergues-Lansargues
 Valleiry
-Valleroy - Moineville
-Vallon-en-Sully
+Valleroy-Moineville
+Vallon
 Vallorcine
 Valmondois
+Valmy
 Valognes
 Vandières
 Vannes
-Vanves - Malakoff
-Varades - Saint-Florent le Vieil
-Varangéville - Saint-Nicolas
+Vanves-Malakoff
+Varades-St-Florent-le-Vieil
+Varangéville-St-Nicolas
 Varennes-sur-Allier
 Varennes-sur-Fouzon
 Varetz
@@ -2703,181 +3660,226 @@ Vauboyen
 Vaucelles
 Vaucresson
 Vaudagne
+Vaulry
 Vaumoise
 Vauvert
+Vaux-en-Bugey
+Vaux-sous-Aubigny
 Vaux-sur-Seine
 Vauxaillon
 Vauzelles
 Vayrac
 Vayres
-Veauche - Saint-Galmier
+Veauche-St-Galmier
 Veigné
-Velars-sur-Ouche
+Velars
 Vélines
 Vendenheim
-Vendeuvre-sur-Barse
+Vendeuvre (Aube)
+Vendeuvre-Jort
 Vendôme
-Vendôme - Villiers-sur-Loir TGV
-Venerque - Vernet
+Vendôme
+Vendôme-Villiers-sur-Loir
+Vénerque-le-Vernet
 Vénissieux
+Vénissieux-Nord
+Venizel
+Verberie
 Verdun
-Véretz - Montlouis
-Vergèze - Codognan
+Verdun
+Verdun-sur-le-Doubs
+Véretz-Montlouis
+Vergèze-Codognan
 Vermenton
-Vern-sur-Seiche
+Vern
 Vernaison
+Vernet-d'Ariège
 Verneuil-l'Étang
 Verneuil-sur-Avre
 Verneuil-sur-Serre
-Vernon - Giverny
-Vernou-la-Celle-sur-Seine
-Vernouillet - Verneuil
-Verrey-sous-Salmaise
-Versailles Chantiers
-Versailles Château Rive Gauche
-Versailles Rive Droite
+Verneuil-sur-Vienne
+Vernon-Giverny
+Vernou-sur-Seine
+Vernouillet-Verneuil
+Verrey
+Versailles-Chantiers
+Versailles-Chantiers
+Versailles-Matelots
+Versailles-Matelots
+Versailles-Rive-Droite
+Versailles-Rive-Gauche
 Versigny
-Vert Galant
+Vert-Galant
 Vertaizon
 Vertou
 Vervins
 Verzeille
 Vesoul
-Veuves - Monteaux
-Veynes Dévoluy
+Veuves-Monteaux
+Veuxhaulles
+Veynes-Dévoluy
+Veynes-Dévoluy
 Vézelise
-Viaduc Sainte-Marie
+Viaduc-Ste-Marie
+Viam
 Viarmes
 Vias
-Vic - Mireval
+Vias
+Vias
 Vic-le-Comte
+Vic-Mireval
+Vic-sur-Aisne
 Vic-sur-Cère
 Vichy
 Vidauban
 Vieilleville
+Vieilleville
 Vielmur-sur-Agout
 Vienne
-Vierzon
-Vierzon Forges
+Vierzon-Forges
+Vierzon-Forges
+Vierzon-Ville
 Vierzy
 Vieux-Thann
-Vieux-Thann Zone Industrielle
+Vieux-Thann ZI
 Viévola
 Vif
 Vigeois
 Vigneux-sur-Seine
-Vignols - Saint-Solve
+Vignols-St-Solve
 Vignory
 Villabé
-Villaines-sous-Bois
+Villaines
 Villars-les-Dombes
 Villedieu-les-Poêles
 Villefort
-Villefranche - Vernet-les-Bains
 Villefranche-de-Lauragais
 Villefranche-de-Rouergue
 Villefranche-du-Périgord
 Villefranche-sur-Cher
 Villefranche-sur-Mer
 Villefranche-sur-Saône
+Villefranche-Vernet-les-Bains
+Villefranche-Vernet-les-Bains
 Villefranque
 Villeherviers
 Villenave-d'Ornon
-Villeneuve Triage
+Villeneuve-d'Ingré
+Villeneuve-l'Archevêque
 Villeneuve-la-Comtesse
 Villeneuve-la-Guyard
 Villeneuve-le-Roi
 Villeneuve-lès-Maguelone
-Villeneuve-Loubet
-Villeneuve-Saint-Georges
+Villeneuve-Loubet-Plage
+Villeneuve-St-Georges
 Villeneuve-sur-Allier
 Villeneuve-sur-Yonne
+Villeneuve-Triage
 Villennes-sur-Seine
 Villenouvelle
-Villeparisis - Mitry-le-Neuf
+Villeparisis
 Villeperdue
 Villepinte
-Villepreux - Les Clayes
+Villepreux-les-Clayes
 Villereversure
 Villers-Bretonneux
 Villers-Cotterêts
-Villers-Saint-Paul
-Villers-Saint-Sépulcre
+Villers-Cotterêts
+Villers-les-Pots
+Villers-St-Paul
+Villers-St-Sépulcre
 Villers-sur-Mer
-Villetaneuse Université
-Villiers - Neauphle - Pontchartrain
-Villiers Montbarbin
-Villiers-le-Bel - Gonesse - Arnouville
-Villiers-sur-Marne - Le Plessis-Trévise
+Villetaneuse-Université TT
+Villiers-le-Bel-Gonesse-Arnouville
+Villiers-le-Sec
+Villiers-Montbarbin
+Villiers-Neauphle-Pontchartrain
+Villiers-St-Georges
+Villiers-sur-Marne-Le Plessis-Trévise
 Vimy
 Vinay
 Vinça
-Vincelles
 Vincey
-Vions - Chanaz
+Vions-Chanaz
+Vire
 Vire
 Vireux-Molhain
-Virieu sur Bourbre
-Virieu-le-Grand - Belley
-Viroflay Rive Droite
-Viroflay Rive Gauche
+Virieu-le-Grand-Belley
+Virieu-sur-Bourbre
+Viroflay-Rive-Droite
+Viroflay-Rive-Gauche
+Viroflay-Rive-Gauche
+Virville-Manneville
+Viry
 Viry-Châtillon
 Viry-Noureuil
-Vis à Marles
+Vis-à-Marles
 Vitré
-Vitrolles Aéroport Marseille Provence
+Vitrolles-Aéroport-Marseille-Provence
 Vitry-en-Artois
+Vitry-la-Ville
 Vitry-le-François
 Vitry-sur-Seine
 Vittel
 Viviers-du-Lac
-Viviez - Decazeville
-Vivoin - Beaumont
+Viviez-Decazeville
+Vivoin-Beaumont
 Vivonne
+Vivy
 Voiron
-Voivres-lès-le-Mans
+Voivres
+Volvic
 Volvic
 Vonnas
 Voreppe
 Vorey
 Vosves
-Vougeot - Gilly-lès-Cîteaux
+Vougeot-Gilly-lès-Cîteaux
 Voujeaucourt
 Voutré
+Vouziers
+Voves
 Voves
 Voyenne
-Vraincourt - Viéville
+Vraincourt-Viéville
 Vrigne-Meuse
-Vulaines-sur-Seine - Samoreau
+Vulaines-sur-Seine-Samoreau
 Wacquemoulin
 Walbach
 Walbourg
 Walheim
-Waligator Parc
 Wallers
+Walygator-Parc
 Wambaix
 Wambrechies
-Watten - Éperlecques
-Wattignies - Templemars
+Wardrecques
+Watten-Éperlecques
+Wattignies-Templemars
 Wavrin
 Wesserling
 Weyersheim
-Wihr-au-Val - Soultzbach
+Wihr-au-Val-Soultzbach-les-Bains
 Willer-sur-Thur
 Wilwisheim
-Wimille - Wimereux
+Wimille-Wimereux
 Wingen-sur-Moder
 Wisches
 Wissembourg
+Wissous
 Wittring
+Wizernes
 Woincourt
 Woippy
 Xertigny
+Xeuilley
 Ychoux
 Yerres
 Yffiniac
-Ygos-Saint-Saturnin
+Ygos
 Ytrac
+Yutz
 Yvetot
 Zetting
 Zillisheim
+Zoufftgen (IE)
+Zu-Rhein
