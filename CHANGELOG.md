@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/MetalBrackets/T-AIA-901/compare/v1.1.0...v1.2.0) (2024-09-28)
+
+
+### Features
+
+* **dataset:** 1st iteration for creating a dataset to test and train the NER model ([d363b04](https://github.com/MetalBrackets/T-AIA-901/commit/d363b043cf6fa5a84004807543d61659c6b8488b))
+
 ## [1.1.0](https://github.com/MetalBrackets/T-AIA-901/compare/v1.0.0...v1.1.0) (2024-09-27)
 
 
