@@ -92,6 +92,18 @@ cd aia-script/2_module_NLP/
 poetry run script-NLP.py
 ```
 
+## Packages
+
+```bash
+pip install streamlit
+pip install streamlit_folium
+pip install folium
+pip install geopy
+pip install shapely
+# https://www.nltk.org/
+pip install nltk==3.6.5
+```
+
 ## Lint
 
 Lancer le script suivant pour lancer pylint  

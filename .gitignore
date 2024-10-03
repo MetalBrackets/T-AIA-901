@@ -1,5 +1,7 @@
 # the heavy data
 aia-data/gares-de-voyageurs.csv
+aia-data/liste-des-gares.csv
+aia-data/formes-des-lignes-du-rfn.geojson
 
 # Environments
 .env
