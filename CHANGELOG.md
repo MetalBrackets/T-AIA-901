@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/MetalBrackets/T-AIA-901/compare/v1.3.0...v1.4.0) (2024-10-03)
+
+
+### Features
+
+* **ner:** 2 POCs -&gt; scripts to tokenized datas ([a223213](https://github.com/MetalBrackets/T-AIA-901/commit/a2232130c54cdda6c9ada8fdfe7f09957c96be2b))
+
 ## [1.3.0](https://github.com/MetalBrackets/T-AIA-901/compare/v1.2.0...v1.3.0) (2024-09-28)
 
 
