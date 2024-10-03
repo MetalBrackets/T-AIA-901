@@ -2,7 +2,7 @@ import os
 import sys
 import streamlit as st
 import folium
-from folium import Marker, Icon
+from folium import Marker, Icon, PolyLine
 from streamlit_folium import st_folium
 
 # Add scripts
@@ -65,9 +65,12 @@ if st.session_state['calculate']:
                     center_lat = (start_coords[0] + end_coords[0]) / 2
                     center_lon = (start_coords[1] + end_coords[1]) / 2
                     travel_map = folium.Map(location=[center_lat, center_lon], zoom_start=6)
-                    # Add markers
+                    coordinates = []
+                    # Add markers and draw lines
                     for index, row in intermediate_stations.iterrows():
                         Marker([row['latitude'], row['longitude']], popup=row['nom'], icon=Icon(color='blue')).add_to(travel_map)
+                        coordinates.append([row['latitude'], row['longitude']])
+                    folium.PolyLine(coordinates, color='orange', weight=4, opacity=0.7).add_to(travel_map)
                     # Display the map
                     st_folium(travel_map, width=700, height=500)
 
